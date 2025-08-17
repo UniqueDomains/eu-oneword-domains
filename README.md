@@ -1,0 +1,2 @@
+# eu-oneword-domains
+List of eu one word domain names with availability, expiration date, attractiveness, demand score.
