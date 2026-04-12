@@ -1,10 +1,10 @@
-# Available .EU One-Word Domains (2,567)
+# Available .EU One-Word Domains (2,568)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-2%2C568%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-2%2C567%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-2%2C570%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-2%2C568%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .eu one-word domains from Unique D
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 2,568 rows · **Live catalog:** 2,567 domains
+**Public extract:** 2,570 rows · **Live catalog:** 2,568 domains
 
 **Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/eu`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .EU one-word domain ca
 
 ### Files
 
-- `eu.csv` — public CSV extract (2,568 rows)
-- `eu.json` — public JSON extract (2,568 rows)
+- `eu.csv` — public CSV extract (2,570 rows)
+- `eu.json` — public JSON extract (2,570 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -77,10 +77,10 @@ print(df.head())
 | thirteen.eu   | resell    | $38,872.30 | $11.99        | 84             | 12     | 8      | Name: EuroDNS S.A. Website: https://www.eurodns.com/                   |
 | astounding.eu | premium   | $3,331.55  | $11.99        | 70             | 97     | 10     | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
 | aneurismal.eu | available | $4.99      | $11.99        | 50             | 6      | 10     | name.com                                                               |
-| thousand.eu   | resell    | $38,973.50 | $10.99        | 84             | 10     | 8      | Name: EuroDNS S.A. Website: https://www.eurodns.com/                   |
+| nineteen.eu   | resell    | $3,197     | $11.99        | 84             | 10     | 8      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
 | coloured.eu   | premium   | $3,355.70  | $11.99        | 68             | 97     | 8      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
 | monstrous.eu  | available | $4.99      | $11.99        | 46             | 6      | 9      | name.com                                                               |
-| nineteen.eu   | resell    | $3,197     | $11.99        | 84             | 10     | 8      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
+| thousand.eu   | resell    | $38,973.50 | $10.99        | 84             | 9      | 8      | Name: EuroDNS S.A. Website: https://www.eurodns.com/                   |
 | documented.eu | premium   | $3,331.55  | $11.99        | 66             | 97     | 10     | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
 | adoring.eu    | available | $10.99     | $11.99        | 90             | 5      | 7      | name.com                                                               |
 | forty.eu      | resell    | $939.55    | $11.99        | 80             | 9      | 5      | Name: TLD Registrar Solutions Ltd                                      |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 2,568-row public sample | 2,567 live domains                               |
+| 2,570-row public sample | 2,568 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
