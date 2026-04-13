@@ -76,13 +76,13 @@ print(df.head())
 | andean.eu     | available | $4.99      | $11.99        | 76             | 6      | 6      | name.com                                                               |
 | thirteen.eu   | resell    | $38,872.30 | $11.99        | 84             | 12     | 8      | Name: EuroDNS S.A. Website: https://www.eurodns.com/                   |
 | astounding.eu | premium   | $3,331.55  | $11.99        | 70             | 97     | 10     | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
-| aneurismal.eu | available | $4.99      | $11.99        | 50             | 6      | 10     | name.com                                                               |
+| contested.eu  | available | $6.19      | $5.99         | 60             | 6      | 9      | namesilo                                                               |
 | nineteen.eu   | resell    | $3,197     | $11.99        | 84             | 10     | 8      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
 | coloured.eu   | premium   | $3,355.70  | $11.99        | 68             | 97     | 8      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
-| monstrous.eu  | available | $4.99      | $11.99        | 46             | 6      | 9      | name.com                                                               |
+| aneurismal.eu | available | $4.99      | $11.99        | 50             | 6      | 10     | name.com                                                               |
 | thousand.eu   | resell    | $38,973.50 | $10.99        | 84             | 9      | 8      | Name: EuroDNS S.A. Website: https://www.eurodns.com/                   |
 | documented.eu | premium   | $3,331.55  | $11.99        | 66             | 97     | 10     | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
-| adherent.eu   | available | $4.99      | $11.99        | 76             | 5      | 8      | name.com                                                               |
+| monstrous.eu  | available | $4.99      | $11.99        | 46             | 6      | 9      | name.com                                                               |
 | forty.eu      | resell    | $939.55    | $11.99        | 80             | 9      | 5      | Name: TLD Registrar Solutions Ltd                                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
