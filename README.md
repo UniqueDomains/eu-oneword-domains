@@ -1,10 +1,10 @@
-# Available .EU One-Word Domains (4,490)
+# Available .EU One-Word Domains (4,505)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C490%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C505%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .eu one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **4,490 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **4,505 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 4,490 domains
+**Public extract:** 1,000 rows · **Live catalog:** 4,505 domains · **Median ask:** $593.92 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/eu`  
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------------------------------------------------------------------- |
 | mousearound.eu      | available | $10.99     | —             | 57             | 22     | 12     | name.com                                                                      |
 | winners.eu          | resell    | —          | —             | 60             | 81     | 7      | Name: eu-hera.at web invest gmbh & co KG Website: http://www.eu-hera.at       |
-| stuff.eu            | premium   | $13,601.61 | —             | 82             | 26     | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com        |
+| jack.eu             | premium   | $13,857.47 | —             | 76             | 44     | 4      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com        |
 | votingage.eu        | available | $10.99     | —             | 52             | 18     | 10     | name.com                                                                      |
 | quotes.eu           | resell    | —          | —             | 58             | 29     | 6      | Name: eu-hera.at web invest gmbh & co KG Website: http://www.eu-hera.at       |
-| giveme.eu           | premium   | $13,928.54 | —             | 76             | 25     | 7      | Name: NETIM Website: https://www.netim.com/                                   |
+| stuff.eu            | premium   | $13,601.61 | —             | 82             | 26     | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com        |
 | childpornography.eu | available | $10.99     | —             | 48             | 17     | 17     | name.com                                                                      |
 | results.eu          | resell    | —          | —             | 59             | 22     | 7      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                        |
-| truly.eu            | premium   | $53,114.16 | —             | 76             | 19     | 5      | name.com                                                                      |
+| giveme.eu           | premium   | $13,928.54 | —             | 76             | 25     | 7      | Name: NETIM Website: https://www.netim.com/                                   |
 | backtosquareone.eu  | available | $10.99     | —             | 58             | 16     | 18     | name.com                                                                      |
 | studios.eu          | resell    | —          | —             | 54             | 21     | 7      | Name: eu-artemis.at web invest gmbh & co KG Website: http://www.eu-artemis.at |
-| hosts.eu            | premium   | $5,240.23  | —             | 52             | 18     | 5      | name.com                                                                      |
+| truly.eu            | premium   | $53,114.16 | —             | 76             | 19     | 5      | name.com                                                                      |
 | getthebetterof.eu   | available | $10.99     | —             | 69             | 15     | 17     | name.com                                                                      |
 | watches.eu          | resell    | —          | —             | 84             | 19     | 7      | Name: InterNetX GmbH Website: https://internetx.com                           |
-| finds.eu            | premium   | $17,339.90 | —             | 62             | 16     | 5      | Name: NETIM Website: https://www.netim.com/                                   |
+| hosts.eu            | premium   | $5,240.23  | —             | 52             | 18     | 5      | name.com                                                                      |
 | giveitup.eu         | available | $10.99     | —             | 74             | 12     | 10     | name.com                                                                      |
 | techsupport.eu      | resell    | —          | —             | 76             | 18     | 12     | Name: eu-eos.at web invest gmbh & co KG Website: http://www.eu-eos.at         |
-| reflections.eu      | premium   | $17,339.90 | —             | 53             | 16     | 11     | Name: NETIM Website: https://www.netim.com/                                   |
+| finds.eu            | premium   | $17,339.90 | —             | 62             | 16     | 5      | Name: NETIM Website: https://www.netim.com/                                   |
 | givesomethingago.eu | available | $10.99     | —             | 68             | 12     | 19     | name.com                                                                      |
 | chefs.eu            | resell    | —          | —             | 68             | 18     | 5      | Name: Key-Systems GmbH Website: http://www.key-systems.net                    |
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 4,490 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 4,505 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .eu domains. It mixes dictionary terms, action words, abstract words, and commercial terms, with examples such as alluvial.eu, lend.eu, ability.eu, lyrics.eu, and million.eu. For founders, the main question is whether a word feels memorable, easy to explain, and ownable for a European brand. For investors, the test is tighter: whether the ask leaves room versus likely resale demand for a single-word .eu name. Median ask is about 594, so price discipline matters. Review each name for meaning, spelling clarity, broad commercial use, and possible trademark friction before treating it as a strong candidate.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this set use the .eu extension
+- One-word structure favors memorability and clean branding
+- Median ask is about 594 across 4,505 domains
+- Check trademark exposure on brand-linked words first
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EU One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EU One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
