@@ -123,6 +123,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 10f720c9-47d3-4bde-b2d6-5d4f35b4530a,comeupto.eu,available,10.99,,72,1,10,name.com,,
 10fc97fb-8393-4857-9491-0c1aeed50896,involving.eu,available,10.99,,56,2,9,name.com,,
 110ec6d5-240c-4377-a38e-761199ac6a4b,makesout.eu,available,5.49,9.99,56,1,9,namesilo,,
+11361dc2-79a5-4935-bc92-43c2c2446cad,mantra.eu,premium,20896.95,,80,27,6,Name: NETIM Website: https://www.netim.com/,,
 114c14bb-5521-4385-8e21-623e1acc2511,estimationtheory.eu,available,10.99,,60,1,17,name.com,,
 116672ef-e952-4755-b3f9-99c66102e7f2,intheabstract.eu,available,10.99,,42,1,15,name.com,,
 1199a81b-6450-4372-9f59-4b98f4799755,potatochips.eu,premium,4168.26,,54,5,12,Name: INFOCAL sp. z o.o. Website: https://www.cal.pl,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 80138e78-a722-470a-8b1e-ffe4d8434038,closeones.eu,available,10.99,,52,1,10,name.com,,
 802aaf0e-519f-4402-a848-56bd14c71406,whisking.eu,available,10.99,,70,2,8,name.com,,
 8041f3f3-308b-4cd4-9db2-eeccd000b0ad,categorically.eu,available,10.99,,50,2,13,name.com,,
-8058c0a7-e964-44e2-8537-bc79bcdf57c7,lookunderrocks.eu,available,10.99,,64,2,16,name.com,,
