@@ -80,10 +80,10 @@ print(df.head())
 | watches.eu          | resell    | —          | —             | 84             | 19     | 7      | Name: InterNetX GmbH Website: https://internetx.com                           |
 | truly.eu            | premium   | $53,114.16 | —             | 76             | 19     | 5      | name.com                                                                      |
 | giveitup.eu         | available | $10.99     | —             | 74             | 12     | 10     | name.com                                                                      |
-| techsupport.eu      | resell    | —          | —             | 76             | 18     | 12     | Name: eu-eos.at web invest gmbh & co KG Website: http://www.eu-eos.at         |
+| chefs.eu            | resell    | —          | —             | 68             | 18     | 5      | Name: Key-Systems GmbH Website: http://www.key-systems.net                    |
 | hosts.eu            | premium   | $5,240.23  | —             | 52             | 18     | 5      | name.com                                                                      |
 | givesomethingago.eu | available | $10.99     | —             | 68             | 12     | 19     | name.com                                                                      |
-| chefs.eu            | resell    | —          | —             | 68             | 18     | 5      | Name: Key-Systems GmbH Website: http://www.key-systems.net                    |
+| users.eu            | resell    | —          | —             | 54             | 18     | 5      | Name: Registrar.eu Website: https://www.openprovider.com                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
