@@ -1,10 +1,10 @@
-# Available .EU One-Word Domains (4,529)
+# Available .EU One-Word Domains (4,645)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C529%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C645%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .eu one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **4,529 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **4,645 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 4,529 domains · **Median ask:** $615.19 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 4,645 domains · **Median ask:** $619.39 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/eu`  
 **Best for:** founders, investors, studios
 
@@ -78,10 +78,10 @@ print(df.head())
 | giveme.eu           | premium   | $13,928.54 | —             | 76             | 25     | 7      | Name: NETIM Website: https://www.netim.com/                                   |
 | getthebetterof.eu   | available | $10.99     | —             | 69             | 15     | 17     | name.com                                                                      |
 | watches.eu          | resell    | —          | —             | 84             | 19     | 7      | Name: InterNetX GmbH Website: https://internetx.com                           |
-| truly.eu            | premium   | $53,114.16 | —             | 76             | 19     | 5      | name.com                                                                      |
+| Islands.eu          | premium   | $2,089.46  | —             | 84             | 24     | 7      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk        |
 | giveitup.eu         | available | $10.99     | —             | 74             | 12     | 10     | name.com                                                                      |
 | chefs.eu            | resell    | —          | —             | 68             | 18     | 5      | Name: Key-Systems GmbH Website: http://www.key-systems.net                    |
-| hosts.eu            | premium   | $5,240.23  | —             | 52             | 18     | 5      | name.com                                                                      |
+| truly.eu            | premium   | $53,114.16 | —             | 76             | 19     | 5      | name.com                                                                      |
 | givesomethingago.eu | available | $10.99     | —             | 68             | 12     | 19     | name.com                                                                      |
 | users.eu            | resell    | —          | —             | 54             | 18     | 5      | Name: Registrar.eu Website: https://www.openprovider.com                      |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 4,529 live domains                         |
+| 1,000-row public sample | 4,645 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EU One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EU One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
