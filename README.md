@@ -1,10 +1,10 @@
-# Available .EU One-Word Domains (4,968)
+# Available .EU One-Word Domains (4,985)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C968%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C985%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .eu one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **4,968 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **4,985 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 4,968 domains · **Median ask:** $603.05 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 4,985 domains · **Median ask:** $672.79 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/eu`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/eu`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .EU one-word domain ca
 
 ### Files
 
-- `eu.csv` — public CSV extract (1,000 rows)
-- `eu.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `eu.csv`, public CSV extract (1,000 rows)
+- `eu.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                                 |
-| ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------------- |
-| childpornography.eu | available | $10.99     | —             | 48             | 13     | 17     | name.com                                                                  |
-| winners.eu          | resell    | —          | —             | 60             | 81     | 7      | Name: eu-hera.at web invest gmbh & co KG Website: http://www.eu-hera.at   |
-| jack.eu             | premium   | $13,857.47 | —             | 76             | 44     | 4      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com    |
-| getittogether.eu    | available | $10.99     | —             | 75             | 8      | 15     | name.com                                                                  |
-| quotes.eu           | resell    | —          | —             | 58             | 29     | 6      | Name: eu-hera.at web invest gmbh & co KG Website: http://www.eu-hera.at   |
-| mantra.eu           | premium   | $20,896.95 | —             | 80             | 27     | 6      | Name: NETIM Website: https://www.netim.com/                               |
-| Obamacare.eu        | available | $5.49      | $9.99         | 66             | 7      | 10     | namesilo                                                                  |
-| results.eu          | resell    | —          | —             | 59             | 22     | 7      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                    |
-| stuff.eu            | premium   | $13,601.61 | —             | 82             | 26     | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com    |
-| WestHaven.eu        | available | $5.49      | $9.99         | 60             | 7      | 10     | namesilo                                                                  |
-| watches.eu          | resell    | —          | —             | 84             | 19     | 7      | Name: InterNetX GmbH Website: https://internetx.com                       |
-| giveme.eu           | premium   | $13,928.54 | —             | 76             | 25     | 7      | Name: NETIM Website: https://www.netim.com/                               |
-| specialed.eu        | available | $10.99     | —             | 76             | 6      | 10     | name.com                                                                  |
-| highend.eu          | resell    | —          | —             | 72             | 19     | 8      | Name: eu-poena.at web invest gmbh & co KG Website: http://www.eu-poena.at |
-| Islands.eu          | premium   | $2,089.46  | —             | 84             | 24     | 7      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk    |
-| StFrancis.eu        | available | $5.49      | $9.99         | 72             | 6      | 11     | namesilo                                                                  |
-| chefs.eu            | resell    | —          | —             | 68             | 18     | 5      | Name: Key-Systems GmbH Website: http://www.key-systems.net                |
-| hosts.eu            | premium   | $5,240.23  | —             | 52             | 18     | 5      | name.com                                                                  |
-| dowhat.eu           | available | $10.99     | —             | 68             | 5      | 7      | name.com                                                                  |
-| users.eu            | resell    | —          | —             | 54             | 18     | 5      | Name: Registrar.eu Website: https://www.openprovider.com                  |
+| domain      | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                                         |
+| ----------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------------------------------- |
+| gay.eu      | resell    | —          | —             | high           | medium | 3      | Name: TransIP Group BV Website: http://transip.nl                                 |
+| firm.eu     | resell    | —          | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html                |
+| pleasure.eu | resell    | —          | —             | high           | low    | 8      | Name: Registrar.eu Website: https://www.openprovider.com                          |
+| tenth.eu    | premium   | $5,354.40  | $11.99        | high           | low    | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com            |
+| flight.eu   | resell    | —          | —             | high           | low    | 6      | Name: NameSilo, LLC Website: https://www.namesilo.com                             |
+| stand.eu    | resell    | —          | —             | high           | low    | 5      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                            |
+| negative.eu | resell    | —          | —             | high           | low    | 8      | Name: eu-tisiphone.at web invest gmbh & co KG Website: http://www.eu-tisiphone.at |
+| pity.eu     | premium   | $8,322.30  | —             | high           | low    | 4      | Name: INFOCAL TECH sp. z o.o. Website: https://www.hostinio.pt                    |
+| clxx.eu     | available | $4.99      | $10.99        | medium         | low    | 4      | name.com                                                                          |
+| forty.eu    | resell    | $939.55    | $11.99        | high           | low    | 5      | Name: TLD Registrar Solutions Ltd                                                 |
+| coy.eu      | premium   | $1,738.80  | $11.99        | medium         | low    | 3      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk            |
+| cxxv.eu     | available | $4.99      | $10.99        | medium         | low    | 4      | name.com                                                                          |
+| bullish.eu  | resell    | $3,195.85  | $11.99        | high           | low    | 7      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com            |
+| lxv.eu      | premium   | $1,745.70  | $10.99        | medium         | low    | 3      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk            |
+| xcii.eu     | available | $4.99      | $10.99        | medium         | low    | 4      | name.com                                                                          |
+| thirteen.eu | resell    | $38,872.30 | $11.99        | high           | low    | 8      | Name: EuroDNS S.A. Website: https://www.eurodns.com/                              |
+| rip.eu      | premium   | $8,157.65  | —             | medium         | low    | 3      | name.com                                                                          |
+| abaft.eu    | available | $4.99      | $11.99        | medium         | low    | 5      | name.com                                                                          |
+| thousand.eu | resell    | $38,973.50 | $10.99        | high           | low    | 8      | Name: EuroDNS S.A. Website: https://www.eurodns.com/                              |
+| xli.eu      | premium   | $1,745.70  | $10.99        | medium         | low    | 3      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 4,968 live domains                         |
+| 1,000-row public sample | 4,985 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .eu domains. It mixes dictionary terms, action words, abstract words, and commercial terms, with examples such as alluvial.eu, lend.eu, ability.eu, lyrics.eu, and million.eu. For founders, the main question is whether a word feels memorable, easy to explain, and ownable for a European brand. For investors, the test is tighter: whether the ask leaves room versus likely resale demand for a single-word .eu name. Median ask is about 594, so price discipline matters. Review each name for meaning, spelling clarity, broad commercial use, and possible trademark friction before treating it as a strong candidate.
+This list covers 4,985 one-word .eu domain names, including everyday words like stuff.eu and strengthen.eu alongside compact compounds such as burgerbun.eu and coffeesenna.eu. Most names are single dictionary words or short two-part blends, making them easy to say and easy to remember. The median asking price across the set is about $673, giving both investors and founders a realistic baseline for budgeting. Because .eu is tied to the European market, these domains can carry regional trust signals for buyers or customers based in the EU.
 
-- All names in this set use the .eu extension
-- One-word structure favors memorability and clean branding
-- Median ask is about 594 across 4,505 domains
-- Check trademark exposure on brand-linked words first
+- 4,985 one-word .eu domain names in this selection
+- Median asking price near $673 across the set
+- Mix of single words and short two-word blends
+- Useful for EU-focused branding or portfolio building
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EU One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EU One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
