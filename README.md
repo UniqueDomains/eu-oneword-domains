@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .eu one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 13,607 domains · **Median ask:** $288.25 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/eu`
 **Best for:** founders, investors, studios
 
@@ -64,14 +64,14 @@ print(df.head())
 
 | domain      | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                                         |
 | ----------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------------------------------- |
-| gay.eu      | resell    | —          | —             | high           | medium | 3      | Name: TransIP Group BV Website: http://transip.nl                                 |
 | firm.eu     | resell    | —          | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html                |
 | pleasure.eu | resell    | —          | —             | high           | low    | 8      | Name: Registrar.eu Website: https://www.openprovider.com                          |
-| tenth.eu    | premium   | $5,354.40  | $11.99        | high           | low    | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com            |
 | flight.eu   | resell    | —          | —             | high           | low    | 6      | Name: NameSilo, LLC Website: https://www.namesilo.com                             |
 | stand.eu    | resell    | —          | —             | high           | low    | 5      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                            |
 | negative.eu | resell    | —          | —             | high           | low    | 8      | Name: eu-tisiphone.at web invest gmbh & co KG Website: http://www.eu-tisiphone.at |
-| pity.eu     | premium   | $8,322.30  | —             | high           | low    | 4      | Name: INFOCAL TECH sp. z o.o. Website: https://www.hostinio.pt                    |
+| plane.eu    | resell    | —          | —             | high           | low    | 5      | Name: Spaceship, Inc. Website: https://www.spaceship.com/                         |
+| contrary.eu | premium   | $5.49      | $9.99         | high           | low    | 8      | namesilo                                                                          |
+| amount.eu   | resell    | —          | —             | high           | low    | 6      | Name: SIA AmberBit Website: www.amberbit.eu                                       |
 | clxx.eu     | available | $5.49      | $9.99         | low            | low    | 4      | namesilo                                                                          |
 | forty.eu    | resell    | $939.55    | $11.99        | low            | low    | 5      | Name: TLD Registrar Solutions Ltd                                                 |
 | coy.eu      | premium   | $1,738.80  | $11.99        | medium         | low    | 3      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EU One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EU One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
