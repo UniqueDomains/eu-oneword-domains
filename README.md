@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .eu one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 14,250 domains · **Median ask:** $263.22 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/eu`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                                         |
-| ----------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------------------------------- |
-| firm.eu     | resell    | —          | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html                |
-| pleasure.eu | resell    | —          | —             | high           | low    | 8      | Name: Registrar.eu Website: https://www.openprovider.com                          |
-| flight.eu   | resell    | —          | —             | high           | low    | 6      | Name: NameSilo, LLC Website: https://www.namesilo.com                             |
-| stand.eu    | resell    | —          | —             | high           | low    | 5      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                            |
-| negative.eu | resell    | —          | —             | high           | low    | 8      | Name: eu-tisiphone.at web invest gmbh & co KG Website: http://www.eu-tisiphone.at |
-| plane.eu    | resell    | —          | —             | high           | low    | 5      | Name: Spaceship, Inc. Website: https://www.spaceship.com/                         |
-| contrary.eu | premium   | $5.49      | $9.99         | high           | low    | 8      | namesilo                                                                          |
-| amount.eu   | resell    | —          | —             | high           | low    | 6      | Name: SIA AmberBit Website: www.amberbit.eu                                       |
-| clxx.eu     | available | $5.49      | $9.99         | low            | low    | 4      | namesilo                                                                          |
-| forty.eu    | resell    | $939.55    | $11.99        | low            | low    | 5      | Name: TLD Registrar Solutions Ltd                                                 |
-| coy.eu      | premium   | $1,738.80  | $11.99        | medium         | low    | 3      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk            |
-| cxxv.eu     | available | $5.49      | $9.99         | low            | low    | 4      | namesilo                                                                          |
-| amended.eu  | resell    | $4.99      | $11.99        | low            | low    | 7      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                            |
-| lxv.eu      | premium   | $1,757.80  | $11.99        | low            | low    | 3      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk            |
-| xcii.eu     | available | $6.98      | $10.98        | low            | low    | 4      | namecheap                                                                         |
-| bullish.eu  | resell    | $3,195.85  | $11.99        | high           | low    | 7      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com            |
-| rip.eu      | premium   | $8,157.65  | —             | medium         | low    | 3      | name.com                                                                          |
-| abaft.eu    | available | $5.49      | $9.99         | low            | low    | 5      | namesilo                                                                          |
-| thirteen.eu | resell    | $38,872.30 | $11.99        | high           | low    | 8      | Name: EuroDNS S.A. Website: https://www.eurodns.com/                              |
-| xli.eu      | premium   | $1,758.98  | $11.99        | low            | low    | 3      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk            |
+| domain       | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                              |
+| ------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------------------------- |
+| clxx.eu      | available | $5.49      | $9.99         | low            | low    | 4      | namesilo                                                               |
+| forty.eu     | resell    | $939.55    | $11.99        | low            | low    | 5      | Name: TLD Registrar Solutions Ltd                                      |
+| coy.eu       | premium   | $1,738.80  | $11.99        | medium         | low    | 3      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk |
+| cxxv.eu      | available | $5.49      | $9.99         | low            | low    | 4      | namesilo                                                               |
+| amended.eu   | resell    | $4.99      | $11.99        | low            | low    | 7      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                 |
+| lxv.eu       | premium   | $1,757.80  | $11.99        | low            | low    | 3      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk |
+| xcii.eu      | available | $6.98      | $10.98        | low            | low    | 4      | namecheap                                                              |
+| bullish.eu   | resell    | $3,195.85  | $11.99        | high           | low    | 7      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
+| rip.eu       | premium   | $8,157.65  | —             | medium         | low    | 3      | name.com                                                               |
+| abaft.eu     | available | $5.49      | $9.99         | low            | low    | 5      | namesilo                                                               |
+| thirteen.eu  | resell    | $38,872.30 | $11.99        | high           | low    | 8      | Name: EuroDNS S.A. Website: https://www.eurodns.com/                   |
+| xli.eu       | premium   | $1,758.98  | $11.99        | low            | low    | 3      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk |
+| agaze.eu     | available | $5.49      | $9.99         | low            | low    | 5      | namesilo                                                               |
+| thousand.eu  | resell    | $38,973.50 | $10.99        | high           | low    | 8      | Name: EuroDNS S.A. Website: https://www.eurodns.com/                   |
+| xlv.eu       | premium   | $1,758.98  | $11.99        | low            | low    | 3      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk |
+| algid.eu     | available | $5.49      | $9.99         | low            | low    | 5      | namesilo                                                               |
+| affecting.eu | resell    | $4.99      | $11.99        | low            | low    | 9      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                 |
+| auld.eu      | premium   | $3,331.55  | $11.99        | medium         | low    | 4      | Name: INFOCAL sp. z o.o. Website: https://www.cal.pl                   |
+| amnic.eu     | available | $5.49      | $9.99         | low            | low    | 5      | namesilo                                                               |
+| concluded.eu | resell    | $4.99      | $11.99        | low            | low    | 9      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EU One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EU One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
