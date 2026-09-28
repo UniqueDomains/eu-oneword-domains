@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-8ba863ba-2ee9-47d7-b084-47be399ff66d,firm.eu,resell,,,high,low,4,"Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html",,,26/09/2026 06:06
+8ba863ba-2ee9-47d7-b084-47be399ff66d,firm.eu,resell,,,high,low,4,"Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html",,,28/09/2026 03:17
 85e0fa88-41ec-470e-880f-790dc56fdc50,pettily.eu,available,5.49,9.99,low,low,7,namesilo,,,15/09/2026 19:44
 a0f9abaa-2e14-4182-adc2-6411f74cbea6,lose.eu,premium,1391.79,,medium,low,4,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,
 d5ba010d-7b0d-452e-b897-69ba64883481,doxepin.eu,available,5.49,9.99,medium,low,7,namesilo,,,17/09/2026 06:25
@@ -23,6 +23,7 @@ d56e4c3d-95c8-4f63-8aec-b890f6a071fb,encouraged.eu,available,5.49,9.99,high,low,
 5b04209b-6a5f-48fe-9604-e9907b9b5b3c,hegelian.eu,available,5.49,9.99,medium,low,8,namesilo,,,21/08/2026 06:14
 1fa3bcc8-9745-4f97-9571-e4e9e8f19a22,precatory.eu,available,5.49,9.99,high,medium,9,namesilo,,,09/09/2026 01:11
 47e7167c-6b3e-4451-b971-0a72a077b13e,bacchante.eu,available,5.49,9.99,medium,low,9,namesilo,,,21/09/2026 13:59
+e84518b4-d176-4a41-a569-35bbdeb61ce1,adopt.eu,resell,,,high,low,5,,,,28/09/2026 03:18
 efd7ffff-92e5-43e4-8f81-d53f071ceeb5,marbled.eu,available,5.49,9.99,medium,low,7,namesilo,,,24/08/2026 15:47
 32ab7e5d-d9e7-4381-a177-4f1bc60538c4,agrimony.eu,available,6.98,10.98,medium,low,8,namecheap,,,17/09/2026 19:30
 9efbfc4c-88a5-4571-9c0f-130750f111ac,roughish.eu,available,5.98,10.98,high,medium,8,namecheap,,,09/09/2026 19:01
@@ -496,6 +497,7 @@ f8b279a4-3a3a-4f4f-b08c-c6c77e8194f2,mediaeval.eu,available,6.98,10.98,medium,lo
 4b1db0d5-f7f9-4df4-9825-132842be7aea,glycogen.eu,available,6.98,10.98,medium,low,8,namecheap,,,19/09/2026 08:46
 2e31adf4-3b32-4ac7-9667-420b0bc2146f,hoagy.eu,available,6.98,10.98,medium,low,5,namecheap,,,24/09/2026 20:07
 b2bb8daf-3fe1-43db-86bb-b863971be845,rosebush.eu,available,5.49,9.99,high,medium,8,namesilo,,,09/09/2026 18:41
+7efc4d70-7287-4b7e-bdf8-7c989cf79a46,swore.eu,available,5.49,9.99,low,low,5,namesilo,,,28/09/2026 04:28
 0987f6d9-e1a4-4de6-bf15-407a1859d415,unbolted.eu,available,5.49,9.99,medium,low,8,namesilo,,,12/09/2026 01:36
 1e67fd86-29d4-4251-8116-212b2bb06a42,madagascan.eu,available,5.49,9.99,medium,low,10,namesilo,,,24/08/2026 12:55
 7337288a-e6a5-4ab6-9915-3199593d92b6,almanac.eu,resell,,,high,low,7,Name: Registrar.eu Website: https://www.openprovider.com,,,26/09/2026 03:48
@@ -520,6 +522,7 @@ f0018bc7-fa50-421f-bf18-afad814de8bc,amain.eu,resell,,,medium,low,5,"Name: SIA "
 76ea7037-2627-4e18-ba96-c03fb339be23,horsefish.eu,available,6.98,10.98,medium,low,9,namecheap,,,20/09/2026 21:39
 ae83b814-b57f-4554-a038-c1f673ff3a7d,rainless.eu,available,5.49,9.99,high,medium,8,namesilo,,,09/09/2026 09:46
 26144840-bf90-4ef9-90b7-76b7d09eebef,asteraceae.eu,available,10.99,11.99,medium,low,10,name.com,,,20/09/2026 17:03
+f0ec9c32-7fba-48dd-ad6f-62bc3a8fb582,desperately.eu,available,5.49,9.99,medium,low,11,namesilo,,,28/09/2026 07:05
 a521ddfd-f457-4980-bf3e-3d14cf50de8c,appealing.eu,premium,2726.72,11.99,high,low,9,Name: Porkbun LLC Website: https://porkbun.com/,,,06/08/2026 05:51
 d46bae90-ed26-43dd-85ba-b985b2f6157e,uniformly.eu,available,6.98,10.98,medium,low,9,namecheap,,,16/09/2026 10:05
 b98efb8c-5a33-4fb8-9109-c6831310c43f,aengus.eu,available,6.98,10.98,medium,low,6,namecheap,,,17/09/2026 12:29
@@ -576,6 +579,7 @@ e51241d0-9232-4f75-a2ae-1025e621ddea,vitamin.eu,resell,,,high,low,7,Name: EuroDN
 9fa6bb6c-b701-461c-9af8-8696ffc72df2,handsomely.eu,available,5.49,9.99,medium,low,10,namesilo,,,14/09/2026 22:57
 ae1fe9c1-1353-4cd7-b3fc-b55b527eecc2,apraxia.eu,available,5.49,9.99,medium,low,7,namesilo,,,19/09/2026 22:29
 e35a9eb6-2732-461e-9842-76b6d7af8871,embarrassed.eu,available,6.98,10.98,medium,low,11,namecheap,,,27/09/2026 06:32
+3d26d5c6-e9be-49ee-b058-e568dcea97b3,porn.eu,resell,,,high,medium,4,,,,28/09/2026 05:37
 bdb10e7d-bc2e-4cae-80df-383727cfe567,antlered.eu,available,5.49,9.99,medium,low,8,namesilo,,,05/08/2026 20:11
 7c6272ca-835f-4e80-af80-60bb1740956d,latakia.eu,available,5.49,9.99,medium,low,7,namesilo,,,18/09/2026 01:28
 e15d450c-8ee3-42ec-af59-f01f9aff26af,practicality.eu,available,5.49,9.99,high,low,12,namesilo,,,16/09/2026 09:33
@@ -653,7 +657,7 @@ eee51b4f-8384-42e3-ac90-14d883621292,uncontrollable.eu,available,5.49,9.99,mediu
 0c0dd866-ddcf-4d3a-be90-18250ecca614,calamitous.eu,available,5.49,9.99,medium,low,10,namesilo,,,11/08/2026 13:28
 dc70c72b-e865-4b98-8b80-215b34fb799e,voidable.eu,available,5.49,9.99,medium,low,8,namesilo,,,09/09/2026 14:47
 b904287d-0adc-4086-a0c2-36829fca865c,beria.eu,available,5.49,9.99,medium,low,5,namesilo,,,23/09/2026 09:22
-98659449-6de2-4945-a95b-90eacb456ab6,universal.eu,resell,,,high,high,9,Name: Porkbun LLC Website: https://porkbun.com/,,,26/09/2026 09:52
+98659449-6de2-4945-a95b-90eacb456ab6,universal.eu,resell,,,high,high,9,Name: Porkbun LLC Website: https://porkbun.com/,,,28/09/2026 06:33
 982507c3-dac0-4294-abf6-4dfc1914cf19,bauxite.eu,available,5.49,9.99,medium,low,7,namesilo,,,22/09/2026 16:42
 ca501772-46d0-46bd-bf1e-b2c5bc4ea1be,bohme.eu,available,5.49,9.99,medium,low,5,namesilo,,,23/09/2026 03:34
 d5a36972-0dc2-4fbb-b83e-fb365f82535b,unpopular.eu,premium,5491.34,11.99,medium,low,9,Name: NETIM Website: https://www.netim.com/,,,12/09/2026 17:11
@@ -845,6 +849,7 @@ f29fad5a-d915-4743-b31f-b4cfd9091ec8,seraphical.eu,available,5.49,9.99,medium,lo
 1d3c3191-0834-42b1-bbda-dd37644884e7,unassisted.eu,available,5.49,9.99,high,medium,10,namesilo,,,10/09/2026 08:26
 42714684-b5e8-4e80-b03b-8142ebcede2e,maroon.eu,resell,,,high,low,6,Name: EuroDNS S.A. Website: https://www.eurodns.com/,,,26/09/2026 07:26
 a0f07fb4-742e-4fab-9856-687253566a27,askant.eu,available,5.49,9.99,medium,low,6,namesilo,,,07/08/2026 03:05
+990385a2-e7af-4246-8061-1e15e081b0d7,carries.eu,resell,,,medium,low,7,,,,28/09/2026 04:37
 71657ec2-d67a-4f17-93c6-262800e6600a,cavernous.eu,available,5.49,9.99,medium,low,9,namesilo,,,11/08/2026 22:51
 fa6e3c93-0180-4c9f-875a-0ddb1c7323b5,romanist.eu,available,5.49,9.99,medium,low,8,namesilo,,,05/09/2026 01:28
 69719b15-06da-4ca7-b639-0a5a9a8bcfb9,diminuendo.eu,available,5.49,9.99,medium,low,10,namesilo,,,13/08/2026 22:19
@@ -872,6 +877,7 @@ b8eda8d5-c06a-4722-bb87-7632e5a8e012,practiced.eu,available,5.49,9.99,high,low,9
 a823b9d8-79dc-4593-8188-bc0cdf6c8481,trumpian.eu,available,5.49,9.99,medium,low,8,namesilo,,,
 d747084e-0fff-471b-b181-e3314196ac16,cyrillic.eu,available,10.99,11.99,medium,low,8,name.com,,,13/08/2026 14:33
 ef36cb12-3090-40b9-be8c-0a55f154c197,repellant.eu,available,5.49,9.99,medium,low,9,namesilo,,,14/08/2026 10:41
+1dd8ace5-c42e-4d7c-bbbe-f181bfb4dc31,referring.eu,available,5.49,9.99,high,low,9,namesilo,,,28/09/2026 03:35
 23003ff0-3bbb-422d-8a0a-2fe75e7cbd1c,bedsit.eu,available,6.98,10.98,medium,low,6,namecheap,,,22/09/2026 23:36
 7bd42eb7-ec9b-4304-b43b-c4ff6c6e2c8e,softish.eu,available,5.49,9.99,medium,low,7,namesilo,,,10/09/2026 03:22
 8023bbc0-0e53-4318-97da-b03b7a73e07b,frore.eu,available,5.49,9.99,low,low,5,namesilo,,,18/08/2026 16:21
@@ -993,9 +999,3 @@ ab0deae8-50e5-4b78-aa48-a40cb93c3cd0,rigorously.eu,available,5.49,9.99,medium,lo
 ce6b768c-9613-4981-9a26-147ffba8ec80,anticlimax.eu,available,6.98,10.98,medium,low,10,namecheap,,,19/09/2026 14:16
 ec98f17d-7607-45d5-9901-0f820a619c9a,wheaten.eu,available,5.49,9.99,medium,low,7,namesilo,,,13/09/2026 11:15
 b43ae80e-a6db-47bd-bc38-fbec1e1aacd2,unshapen.eu,available,5.49,9.99,medium,low,8,namesilo,,,12/09/2026 19:33
-deeb2c25-7dff-41b9-ae7c-4a8ca91aa65c,livingston.eu,resell,,,medium,low,10,"Name: GoDaddy.com, LLC Website: http://www.godaddy.com",,,26/09/2026 07:16
-55867c62-271c-447e-ac47-456513a503e7,gad.eu,resell,,,high,low,3,Name: InterNetX GmbH Website: https://internetx.com,,,26/09/2026 06:18
-3ea97467-5d30-4294-871d-63ceaff9559f,inocor.eu,available,5.49,9.99,medium,low,6,namesilo,,,18/09/2026 23:58
-08f9082f-d6aa-447e-b9dd-552b9d50fdfa,exogenous.eu,available,5.49,9.99,medium,low,9,namesilo,,,17/08/2026 17:33
-42653a02-2767-4325-bd40-4c550a594935,sunblind.eu,available,6.98,10.98,medium,low,8,namecheap,,,21/09/2026 10:15
-2e87fbb7-8509-4f3e-a974-7131a9f56618,afrl.eu,available,5.49,9.99,medium,low,4,namesilo,,,17/09/2026 15:27
