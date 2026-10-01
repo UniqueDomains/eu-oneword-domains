@@ -1,10 +1,10 @@
-# Available .EU One-Word Domains (8,281)
+# Available .EU One-Word Domains (8,802)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C281%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C802%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .eu one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,281 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,802 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,281 domains · **Median ask:** $141.87 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 8,802 domains · **Median ask:** $127.78 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/eu`
 **Best for:** founders, investors, studios
 
@@ -66,23 +66,23 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------------------------- |
 | bawd.eu      | available | $10.99    | $11.99        | medium         | low    | 4      | name.com                                                               |
 | amended.eu   | resell    | $4.99     | $11.99        | medium         | low    | 7      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                 |
-| rid.eu       | premium   | $2,089.46 | —             | high           | low    | 3      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk |
+| auld.eu      | premium   | $3,331.55 | $11.99        | medium         | low    | 4      | Name: INFOCAL sp. z o.o. Website: https://www.cal.pl                   |
 | eery.eu      | available | $5.49     | $9.99         | low            | low    | 4      | namesilo                                                               |
 | bullish.eu   | resell    | $3,195.85 | $11.99        | high           | low    | 7      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
-| auld.eu      | premium   | $3,331.55 | $11.99        | medium         | low    | 4      | Name: INFOCAL sp. z o.o. Website: https://www.cal.pl                   |
+| leggy.eu     | premium   | $3,463.48 | $11.99        | medium         | low    | 5      | Name: INFOCAL sp. z o.o. Website: https://www.cal.pl                   |
 | lxxi.eu      | available | $5.49     | $9.99         | medium         | low    | 4      | namesilo                                                               |
 | focuses.eu   | resell    | $5.49     | $9.99         | medium         | low    | 7      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                 |
-| lose.eu      | premium   | $1,391.79 | —             | medium         | low    | 4      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
+| fleecy.eu    | premium   | $2,724.35 | $11.99        | medium         | low    | 6      | Name: Spaceship, Inc. Website: https://www.spaceship.com/              |
 | oozy.eu      | available | $5.49     | $9.99         | medium         | low    | 4      | namesilo                                                               |
 | attempts.eu  | resell    | $10.99    | —             | medium         | low    | 8      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                 |
-| leggy.eu     | premium   | $3,463.48 | $11.99        | medium         | low    | 5      | Name: INFOCAL sp. z o.o. Website: https://www.cal.pl                   |
+| lumbar.eu    | premium   | $2,755.15 | $11.99        | medium         | low    | 6      | Name: Spaceship, Inc. Website: https://www.spaceship.com/              |
 | aphis.eu     | available | $5.49     | $9.99         | medium         | low    | 5      | namesilo                                                               |
 | attended.eu  | resell    | $4.99     | $11.99        | medium         | low    | 8      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                 |
-| caudal.eu    | premium   | $2,720.80 | $11.99        | high           | low    | 6      | Name: Spaceship, Inc. Website: https://www.spaceship.com/              |
-| arhus.eu     | available | $5.49     | $9.99         | medium         | low    | 5      | namesilo                                                               |
-| detected.eu  | resell    | $4,685.10 | $11.99        | high           | low    | 8      | Name: RegistrarHub Website: https://www.registrarhub.net/              |
-| fleecy.eu    | premium   | $2,724.35 | $11.99        | medium         | low    | 6      | Name: Spaceship, Inc. Website: https://www.spaceship.com/              |
+| choosey.eu   | premium   | $2,736.20 | $11.99        | medium         | low    | 7      | Name: INFOCAL sp. z o.o. Website: https://www.cal.pl                   |
 | arulo.eu     | available | $6.98     | $10.98        | medium         | low    | 5      | namecheap                                                              |
+| detected.eu  | resell    | $4,685.10 | $11.99        | high           | low    | 8      | Name: RegistrarHub Website: https://www.registrarhub.net/              |
+| islands.eu   | premium   | $2,089.46 | —             | high           | low    | 7      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk |
+| atole.eu     | available | $5.49     | $9.99         | medium         | low    | 5      | namesilo                                                               |
 | concluded.eu | resell    | $4.99     | $11.99        | high           | low    | 9      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 8,281 live domains                         |
+| 1,000-row public sample | 8,802 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 6 high-demand names under $2,500           |
+| Basic exported fields   | 7 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EU One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EU One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
