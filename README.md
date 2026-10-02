@@ -1,10 +1,10 @@
-# Available .EU One-Word Domains (8,802)
+# Available .EU One-Word Domains (9,163)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C802%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C163%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .eu one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,802 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,163 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,802 domains · **Median ask:** $127.78 · **High-demand under $2,500:** 7
+**Public extract:** 1,000 rows · **Live catalog:** 9,163 domains · **Median ask:** $119.39 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/eu`
 **Best for:** founders, investors, studios
 
@@ -78,12 +78,12 @@ print(df.head())
 | lumbar.eu    | premium   | $2,755.15 | $11.99        | medium         | low    | 6      | Name: Spaceship, Inc. Website: https://www.spaceship.com/              |
 | aphis.eu     | available | $5.49     | $9.99         | medium         | low    | 5      | namesilo                                                               |
 | attended.eu  | resell    | $4.99     | $11.99        | medium         | low    | 8      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                 |
-| choosey.eu   | premium   | $2,736.20 | $11.99        | medium         | low    | 7      | Name: INFOCAL sp. z o.o. Website: https://www.cal.pl                   |
+| islands.eu   | premium   | $2,089.46 | —             | high           | low    | 7      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk |
 | arulo.eu     | available | $6.98     | $10.98        | medium         | low    | 5      | namecheap                                                              |
 | detected.eu  | resell    | $4,685.10 | $11.99        | high           | low    | 8      | Name: RegistrarHub Website: https://www.registrarhub.net/              |
-| islands.eu   | premium   | $2,089.46 | —             | high           | low    | 7      | Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk |
+| mockery.eu   | premium   | $2,058.66 | $11.99        | medium         | low    | 7      | Name: Spaceship, Inc. Website: https://www.spaceship.com/              |
 | atole.eu     | available | $5.49     | $9.99         | medium         | low    | 5      | namesilo                                                               |
-| concluded.eu | resell    | $4.99     | $11.99        | high           | low    | 9      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                 |
+| generates.eu | resell    | $5.49     | $9.99         | medium         | low    | 9      | Name: GoDaddy.com, LLC Website: http://www.godaddy.com                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 8,802 live domains                         |
+| 1,000-row public sample | 9,163 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 7 high-demand names under $2,500           |
+| Basic exported fields   | 8 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EU One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EU One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
