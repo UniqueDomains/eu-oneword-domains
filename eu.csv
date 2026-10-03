@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-8ba863ba-2ee9-47d7-b084-47be399ff66d,firm.eu,resell,,,high,low,4,"Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html",,,30/09/2026 07:49
+8ba863ba-2ee9-47d7-b084-47be399ff66d,firm.eu,resell,,,high,low,4,"Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html",,,02/10/2026 12:23
 85e0fa88-41ec-470e-880f-790dc56fdc50,pettily.eu,available,5.49,9.99,low,low,7,namesilo,,,15/09/2026 19:44
 d5ba010d-7b0d-452e-b897-69ba64883481,doxepin.eu,available,5.49,9.99,medium,low,7,namesilo,,,17/09/2026 06:25
 32ddf7ff-cfd4-49dc-8a92-a3757b20e9fe,moderately.eu,available,6.98,10.98,medium,low,10,namecheap,,,25/09/2026 12:00
@@ -33,6 +33,7 @@ d56e4c3d-95c8-4f63-8aec-b890f6a071fb,encouraged.eu,available,5.49,9.99,high,low,
 e84518b4-d176-4a41-a569-35bbdeb61ce1,adopt.eu,resell,,,high,low,5,,,,28/09/2026 03:18
 efd7ffff-92e5-43e4-8f81-d53f071ceeb5,marbled.eu,available,5.49,9.99,medium,low,7,namesilo,,,24/08/2026 15:47
 32ab7e5d-d9e7-4381-a177-4f1bc60538c4,agrimony.eu,available,6.98,10.98,medium,low,8,namecheap,,,17/09/2026 19:30
+43ad8546-a189-4d60-a492-2d5f20b784bf,consecrated.eu,available,5.68,5.68,medium,low,11,spaceship,,,02/10/2026 21:14
 9efbfc4c-88a5-4571-9c0f-130750f111ac,roughish.eu,available,5.98,10.98,high,medium,8,namecheap,,,09/09/2026 19:01
 7d358dc4-161e-4c7b-80bb-2617de60914b,smelling.eu,available,5.49,9.99,high,low,8,namesilo,,,27/09/2026 22:56
 b9034a32-6284-4e41-8198-798dd0b06413,coddle.eu,available,5.49,9.99,high,low,6,namesilo,,,21/09/2026 13:03
@@ -45,6 +46,7 @@ b3ea78c2-9bc3-40dc-a27a-7f4c384a750f,cohomology.eu,available,5.88,5.88,medium,lo
 4a4cb7d8-74b2-4a30-9a88-bfd00dbde428,besieged.eu,available,5.49,9.99,low,low,8,namesilo,,,09/08/2026 15:25
 cf79e56e-f75d-4a5b-be48-d1cde8c2eb1f,indigotin.eu,available,5.49,9.99,medium,low,9,namesilo,,,22/08/2026 03:05
 cc914ede-f09b-45ca-bc91-5e2c09773b8a,idealism.eu,available,5.68,5.68,high,low,8,spaceship,,,02/10/2026 05:14
+b4cfa80d-0c43-4ef7-a940-3a27c51e7572,macdowell.eu,available,5.49,9.99,medium,low,9,namesilo,,,02/10/2026 14:58
 fba02ca3-19f1-46ee-ac6f-cee55b368ed7,anglophobe.eu,available,5.49,9.99,medium,low,10,namesilo,,,19/09/2026 06:55
 de18593f-90ea-400c-9657-e0357f968e98,diocesan.eu,available,5.49,9.99,medium,low,8,namesilo,,,14/08/2026 08:18
 a04520a7-6a0e-4d10-84d7-5e583273b670,seventeenth.eu,available,5.68,5.68,medium,low,11,spaceship,,,01/10/2026 22:21
@@ -85,6 +87,7 @@ b5122b83-01bb-4036-8b1c-87b5c13d7e2a,specious.eu,available,5.49,9.99,high,medium
 fbe6aacc-742b-4ce8-942d-18664265f265,theoretically.eu,available,6.98,10.98,low,low,13,namecheap,,,28/09/2026 17:35
 5110521c-06a9-4cef-af04-c329bf91c421,revelatory.eu,available,5.49,9.99,medium,low,10,namesilo,,,06/08/2026 00:55
 fc991850-de56-4a53-9735-026689ee6934,devotes.eu,available,5.49,9.99,medium,low,7,namesilo,,,20/09/2026 02:04
+04e48280-d4d9-4dd6-8d25-8f7d0a30fe5c,unintentional.eu,available,5.49,9.99,medium,low,13,namesilo,,,02/10/2026 07:05
 01029bcf-84c3-42b0-92a6-3e9d08bc2868,sadat.eu,available,6.98,10.98,medium,low,5,namecheap,,,19/09/2026 15:58
 4c1ba7fb-eb08-40a6-81e5-38900b66a4df,crecy.eu,available,6.98,10.98,medium,low,5,namecheap,,,22/09/2026 15:02
 f404a991-6e25-4472-99aa-a68cf738bbb3,fleshy.eu,available,5.49,9.99,medium,low,6,namesilo,,,18/08/2026 08:02
@@ -94,9 +97,11 @@ a43ddfb3-a28d-45b1-9ee9-136d2c91a28c,contaminated.eu,available,5.68,5.68,medium,
 ea6df738-2f0c-4371-ae81-9d7f9e84f4fd,disadvantage.eu,available,5.49,9.99,medium,low,12,namesilo,,,01/10/2026 08:43
 3e84b083-137a-4b6a-ba26-ecd4267ccfb9,absalom.eu,available,5.68,5.68,medium,low,7,spaceship,,,01/10/2026 23:58
 43858204-4b01-4c7f-8ad5-e748bf6be9b6,statistically.eu,available,5.49,9.99,low,low,13,namesilo,,,29/09/2026 10:41
+9d7d3109-1054-42ec-94f1-c30b7f54f579,consisting.eu,available,5.88,5.88,low,low,10,porkbun,,,02/10/2026 21:09
 90992b70-658d-4fd5-8404-4caf13316fb8,officers.eu,premium,6865.36,,medium,low,8,Name: NETIM Website: https://www.netim.com/,,,
 0720d336-5c53-44f0-b9fb-7331c63c5bf2,amenra.eu,available,6.98,10.98,medium,low,7,namecheap,,,18/09/2026 18:32
 03870c5f-5f38-4592-b7f0-fc61e215f39b,morelos.eu,available,6.98,10.98,medium,low,7,namecheap,,,30/09/2026 21:17
+7a82a68f-8914-4360-9f38-4e19d22b0c0b,winstonsalem.eu,available,6.98,10.98,medium,low,13,namecheap,,,03/10/2026 06:16
 5ed09b2d-7c95-4a75-9ab5-cf47891139fa,attempts.eu,resell,10.99,,medium,low,8,"Name: GoDaddy.com, LLC Website: http://www.godaddy.com",,,26/09/2026 04:07
 b88cbf60-be92-47c7-94b2-e7683a8d7cfc,spaciously.eu,available,5.49,9.99,medium,low,10,namesilo,,,16/09/2026 00:04
 db8e0831-76d4-4329-bcd6-9362a8163919,unquestionable.eu,available,10.99,,medium,low,14,name.com,,,
@@ -111,6 +116,7 @@ a6dbbfa3-a144-4741-b327-192a17186e61,necessarily.eu,available,5.49,9.99,medium,l
 765e3e42-bcc1-4171-bf53-32b7cc312183,downmarket.eu,available,6.98,10.98,high,low,10,namecheap,,,14/08/2026 17:48
 ff59958a-954f-47c0-8b0c-db2bcf7fadda,apocrypha.eu,available,6.98,10.98,medium,low,9,namecheap,,,19/09/2026 18:13
 2ece4572-a00c-4b08-97dc-05a4d2349bd9,confiscated.eu,available,5.68,5.68,low,low,11,spaceship,,,29/09/2026 11:03
+5099cd0c-9167-4f94-a899-49a60705b3fb,gunpoint.eu,available,6.98,10.98,medium,low,8,namecheap,,,03/10/2026 01:04
 1b6ea0b1-e81c-4da7-84b0-b1b58c75b816,severely.eu,available,5.68,5.68,medium,low,8,spaceship,,,28/09/2026 13:15
 200d6dc0-b094-4561-b22d-5e98ad652667,hunter.eu,resell,,,high,medium,6,,,,27/09/2026 04:29
 be7f9ecd-9350-4123-802b-4bae86ecf22e,tantrik.eu,available,5.49,9.99,medium,low,7,namesilo,,,11/09/2026 08:07
@@ -175,6 +181,7 @@ dfeb2fbe-7afe-4ed8-87fb-11a3caab73ca,cuthbert.eu,available,4.37,6.28,medium,low,
 e777dad0-86f3-41e3-ad1f-816f30d08cbe,final.eu,resell,,,high,low,5,"Name: SIA ""DOMĒNI"" Website: http://www.nc.lv",,,30/09/2026 19:09
 636e53ae-5f06-4f97-9ae8-a9387c219e05,seeming.eu,available,5.68,5.68,high,low,7,spaceship,,,01/10/2026 18:12
 761f557f-6661-4445-bf20-4db54e1e7e07,canary.eu,resell,,,high,low,6,Name: web invest gmbh Website: http://www.web-invest.at,,,26/09/2026 04:44
+ab7484a5-096e-4c44-a978-fc9a85b10060,degeneration.eu,available,5.49,9.99,medium,low,12,namesilo,,,02/10/2026 11:07
 00de18cb-3828-4624-b093-15b04597e460,member.eu,resell,,,high,low,6,Name: RegistryGate GmbH Website: http://www.registrygate.com,,,28/09/2026 21:54
 ec63bccb-b759-471d-882b-3d84bf6792f1,maids.eu,resell,,,medium,low,5,,,,30/09/2026 00:12
 410c3f9c-bd71-4439-9dd3-986a68f3964b,flashily.eu,available,5.98,10.98,medium,low,8,namecheap,,,14/09/2026 18:54
@@ -197,26 +204,30 @@ f2b02463-ceb3-4e8d-a8fb-5eeff2e464f6,watersheds.eu,available,5.49,9.99,low,low,1
 07dbbf43-f2a9-4c06-a9f9-09644b22ea25,robbed.eu,available,5.49,9.99,low,low,6,namesilo,,,27/09/2026 02:44
 2da6a5e0-93a4-4240-a745-45b3584b639b,truncheon.eu,available,5.49,9.99,medium,low,9,namesilo,,,23/09/2026 16:38
 659128ca-4288-4fd0-97b1-4b0175b828d4,leggy.eu,premium,3463.48,11.99,medium,low,5,Name: INFOCAL sp. z o.o. Website: https://www.cal.pl,,,22/08/2026 22:57
+349817eb-aadc-43d9-921b-e090cab924ed,oxidation.eu,available,5.49,9.99,medium,low,9,namesilo,,,03/10/2026 01:45
 2668eb2b-beb9-4c04-8ded-537617b76efb,snarled.eu,available,5.49,9.99,high,medium,7,namesilo,,,10/09/2026 12:19
 018b857c-2de2-44f8-b703-afaa3103ba4e,grievances.eu,available,5.88,5.88,low,low,10,porkbun,,,02/10/2026 01:58
 d8927d28-01b2-4a3b-8d92-5b1761eac4be,ananias.eu,available,6.98,10.98,low,low,7,namecheap,,,19/09/2026 02:03
 cdddab0f-3b0d-4dbf-a458-ed41b9127239,aspartame.eu,available,5.49,9.99,medium,low,9,namesilo,,,20/09/2026 14:43
 1e3748a6-e61f-41c7-978f-6dd8bd87f049,anxious.eu,resell,,,medium,low,7,,,,27/09/2026 21:59
+ca7b8683-ea6d-4fab-8a67-1409c09defdb,kubrick.eu,available,5.49,9.99,medium,low,7,namesilo,,,02/10/2026 15:55
 63bb723b-71ea-4941-b819-5d79aecd15f2,endurable.eu,available,5.49,9.99,medium,low,9,namesilo,,,09/08/2026 04:33
 c0bedb24-98ac-4b34-bb36-7d1c201f96c0,coffeehousing.eu,available,6.98,10.98,medium,low,13,namecheap,,,20/09/2026 21:09
+de716f0b-fafd-4be2-8998-a31ea62c3ca3,charlevoix.eu,available,5.68,5.68,high,low,10,spaceship,,,03/10/2026 06:00
 849180f0-e8a6-4f8a-b5a2-268a67655c65,aphorist.eu,available,5.49,9.99,medium,low,8,namesilo,,,19/09/2026 17:11
 3088b90e-872a-403d-8a07-4a2018ab6a29,birdbath.eu,available,6.98,10.98,medium,low,8,namecheap,,,23/09/2026 20:31
 699a63b6-d496-4b90-bc66-080e6b72c41c,lugubrious.eu,available,5.49,9.99,medium,low,10,namesilo,,,24/08/2026 11:04
-87f21bf9-648e-4bda-8a2b-9b0691860061,nonuniform.eu,available,5.49,9.99,medium,low,10,namesilo,,,22/08/2026 05:15
 80e57ac9-10de-47a6-b6c9-e572c2a9347e,abatement.eu,resell,,,medium,low,9,Name: NETIM Website: https://www.netim.com/,,,26/09/2026 01:18
 227922ac-66a1-4570-adb5-eece7206afcd,deductive.eu,available,5.49,9.99,medium,low,9,namesilo,,,13/08/2026 22:29
 c1ac02b3-fcdb-402e-8d14-f7f452cebbde,newsfeed.eu,resell,,,low,low,9,Name: Nictrade Internet Identity Provider AB Website: https://nictrade.se/,,,26/09/2026 07:46
 604ea3ca-e758-41e5-b9fa-05bf40b98a70,plosive.eu,available,5.49,9.99,medium,low,7,namesilo,,,04/09/2026 00:16
 5cac13ff-2956-40f3-8b5c-af626300c1d6,roumanian.eu,available,5.98,10.98,high,medium,9,namecheap,,,09/09/2026 18:29
+4e15cc1a-c39b-4653-bfc6-454ee5fddae5,migrating.eu,available,5.49,9.99,low,low,9,namesilo,,,02/10/2026 21:52
 75b8b485-7b3b-4aac-b8d6-d2086beed9b7,unheaded.eu,available,5.49,9.99,low,low,8,namesilo,,,12/09/2026 12:06
 858da688-c243-4cde-a05f-4ec45583a12e,bilirubin.eu,available,6.98,10.98,medium,low,9,namecheap,,,23/09/2026 15:56
 78da9100-ddfd-4269-9391-2faf9f036f1c,costate.eu,available,5.49,9.99,medium,low,7,namesilo,,,13/08/2026 03:06
 93db3f89-ad14-4ba7-9722-07e67d5daba7,quartette.eu,available,5.49,9.99,medium,low,9,namesilo,,,09/09/2026 07:26
+86de4e38-c5f8-48d7-8afd-6d37d235224f,permitting.eu,available,5.68,5.68,high,low,10,spaceship,,,02/10/2026 07:24
 87ddf14a-c567-42af-9541-ac8819f933bc,scabby.eu,available,5.49,9.99,medium,low,6,namesilo,,,09/09/2026 22:13
 aceab3cf-296f-41a8-8282-b316ba561983,wigmore.eu,available,4.35,6.26,medium,low,7,dynadot,,,30/09/2026 22:00
 71aae3bf-ac6a-43c0-9e42-6c4324e2752c,aplite.eu,available,6.98,10.98,medium,low,6,namecheap,,,19/09/2026 17:42
@@ -244,12 +255,13 @@ fca47867-5b5c-43d1-ad37-6c9004d22f2f,liquified.eu,available,6.98,10.98,medium,lo
 cb25199e-b136-4e2c-aaab-07d421f5f638,cabell.eu,available,5.49,9.99,medium,low,6,namesilo,,,30/09/2026 08:52
 c26d1199-4e1d-4118-8c06-446399ca9c1c,pathological.eu,available,5.88,5.88,medium,low,12,porkbun,,,29/09/2026 21:08
 cb511aac-249c-4110-9beb-5ea18b8e2767,fizzing.eu,available,5.49,9.99,medium,low,7,namesilo,,,18/08/2026 06:02
-36350b8c-5b33-4021-963f-7cd9b5be8624,question.eu,resell,,,high,low,8,Name: Key-Systems GmbH Website: http://www.key-systems.net,,,26/09/2026 08:27
+36350b8c-5b33-4021-963f-7cd9b5be8624,question.eu,resell,,,high,low,8,Name: Key-Systems GmbH Website: http://www.key-systems.net,,,02/10/2026 10:29
 0188d2c6-f528-45f2-92a1-6ff56b6beb8f,stoical.eu,available,5.98,10.98,medium,low,7,namecheap,,,10/09/2026 20:59
 06805c3c-21fa-45bb-adab-1d9e57d70f5e,handless.eu,available,5.49,9.99,medium,low,8,namesilo,,,11/08/2026 10:12
 4ec60f24-e9bc-4f6d-bc63-b5f222f4341d,egotistic.eu,available,6.98,10.98,medium,low,9,namecheap,,,12/08/2026 19:55
 31e0187f-4400-4e71-9c27-9a2051865658,assail.eu,available,6.98,10.98,medium,low,6,namecheap,,,20/09/2026 15:49
 ba691d0b-988a-4bbf-be65-d5601112ed0f,gawky.eu,available,5.49,9.99,medium,low,5,namesilo,,,12/08/2026 13:06
+4a22ab93-945d-4db1-bf66-1da031f6c4df,autographed.eu,resell,,,medium,low,11,,,,03/10/2026 03:40
 c876b75f-5583-4a26-b4b3-507e49c75781,aphis.eu,available,5.49,9.99,medium,low,5,namesilo,,,19/09/2026 17:05
 7cc399a8-b0e0-43de-b72e-23c5c7430083,custodial.eu,resell,,,medium,low,9,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,26/09/2026 05:23
 70d9a28c-6ba3-4e6e-ba6f-a7ff03ce8f22,haughty.eu,available,5.49,9.99,medium,low,7,namesilo,,,21/08/2026 01:24
@@ -260,15 +272,17 @@ c8f8cb48-fd37-407f-96de-87df817ba150,reticent.eu,available,5.68,5.68,medium,low,
 6c8ba530-29b2-43d3-a898-959c04d814fe,bowfin.eu,available,6.98,10.98,medium,low,6,namecheap,,,18/09/2026 21:19
 c3a9fdb8-f92d-454b-87c7-402ed73fe751,imitator.eu,available,6.98,10.98,medium,low,8,namecheap,,,19/09/2026 16:27
 d40ca63e-34b1-4de7-af72-63324cf32b1e,araguaia.eu,available,5.49,9.99,medium,low,8,namesilo,,,19/09/2026 23:45
+936db071-05c8-4f3f-8d3c-14ccd2104620,abnormality.eu,available,4.86,6.21,medium,low,11,dynadot,,,02/10/2026 11:02
 46e26bb8-04bf-4207-b1f7-bc1c38ecb604,sarcosomal.eu,available,5.98,10.98,high,medium,10,namecheap,,,09/09/2026 21:29
 7de6b2bb-8627-4128-9f7a-eb1eeec17487,waverley.eu,resell,,,high,low,8,,,,29/09/2026 09:35
 de15a12f-8605-4988-a67e-95f530b7599d,lxxxii.eu,available,5.49,9.99,medium,low,6,namesilo,,,
 6b65891d-4e66-4856-b966-c45f70bc2dd4,uncharged.eu,available,5.49,9.99,medium,low,9,namesilo,,,12/09/2026 05:06
 1adbc804-5216-4722-bc00-771de9145bdf,monotony.eu,available,5.49,9.99,medium,low,8,namesilo,,,21/08/2026 15:10
-10e0e35b-cb91-4711-b63a-53be66e9b2b1,operating.eu,resell,,,medium,low,9,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,28/09/2026 08:05
+10e0e35b-cb91-4711-b63a-53be66e9b2b1,operating.eu,resell,,,high,low,9,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,02/10/2026 11:45
 b93fc373-8a98-4c85-aa22-55feeebc3fe9,reluctantly.eu,available,5.49,9.99,medium,low,11,namesilo,,,30/09/2026 11:53
 20a47c9b-98ad-45de-9c75-c13759c661a9,dissected.eu,available,5.49,9.99,medium,low,9,namesilo,,,12/08/2026 10:41
 d5d41b66-b5cd-49d7-8868-20f76ab78dce,yorktown.eu,available,5.68,5.68,medium,low,8,spaceship,,,28/09/2026 10:55
+20454ea1-c6f1-4684-994e-3dfcd6ac139d,barangay.eu,available,5.68,5.68,high,low,8,spaceship,,,02/10/2026 18:11
 0a65bcbc-5cc3-4db4-a99b-2f7aa5de50d5,amended.eu,resell,4.99,11.99,medium,low,7,"Name: GoDaddy.com, LLC Website: http://www.godaddy.com",,,26/09/2026 03:50
 d9c55b93-6f3e-4143-b668-d073dcc13cf0,dryness.eu,available,5.49,9.99,medium,low,7,namesilo,,,24/09/2026 22:51
 0e622309-e0d1-4f01-9276-2c86d95aed1d,prosodic.eu,available,5.49,9.99,medium,low,8,namesilo,,,09/09/2026 03:39
@@ -278,6 +292,7 @@ a9ec06d3-9ca1-4545-b163-da0c7cc37817,penance.eu,available,5.68,5.68,high,low,7,s
 d7e1c3a3-a70a-42ae-a9d8-a9efc5bbbbcf,poinciana.eu,available,6.98,10.98,high,low,9,namecheap,,,23/09/2026 20:09
 82bb8fe7-7c3f-4a0e-911d-1f1240de7e53,ribosomes.eu,available,5.68,5.68,low,low,9,spaceship,,,02/10/2026 03:56
 76f6e3e4-4626-4b92-93e8-32cb14af129a,dionysian.eu,available,5.49,9.99,medium,low,9,namesilo,,,14/08/2026 08:24
+21701816-498c-41c1-95a7-ad096a12ac03,lanarkshire.eu,available,5.68,5.68,medium,low,11,spaceship,,,03/10/2026 04:54
 8ce0fbd7-5ab8-4c2e-bcab-caade5893d7e,dandily.eu,available,5.49,9.99,medium,low,7,namesilo,,,14/09/2026 10:33
 660ca525-0556-4755-9543-5fe972a48b68,mons.eu,resell,,,high,low,4,,,,28/09/2026 14:54
 0b166b41-fb62-47ec-a158-8d163fbb029f,rutty.eu,available,5.98,10.98,medium,low,5,namecheap,,,09/09/2026 20:24
@@ -288,11 +303,12 @@ d690e5d9-fc1f-4958-a290-f40615855621,stalled.eu,available,5.49,9.99,medium,low,7
 31ac9ed6-1b65-4d23-be9c-efd0b4bb7be9,surveillance.eu,resell,,,medium,low,12,,,,27/09/2026 08:40
 392ec2c6-8434-4671-866a-1c140f245e64,unimposing.eu,available,5.49,9.99,medium,low,10,namesilo,,,12/09/2026 13:12
 1a366c07-b289-4784-929a-404bc229a03a,ageratum.eu,available,5.49,9.99,medium,low,8,namesilo,,,17/09/2026 17:22
-556c77e9-b1a6-49c0-a880-d09df6b7514b,mistletoe.eu,resell,,,high,low,9,,,,02/10/2026 04:49
+556c77e9-b1a6-49c0-a880-d09df6b7514b,mistletoe.eu,resell,,,medium,low,9,"Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html",,,02/10/2026 11:12
 c7e517f2-7d6a-4dcb-ad06-71ba8f4ecf55,abatic.eu,available,5.49,9.99,medium,low,6,namesilo,,,
 5fa43f50-190d-4967-a0d1-5604f495ce75,metastatic.eu,available,5.49,9.99,medium,low,10,namesilo,,,24/08/2026 21:49
 8495c2b4-bdfb-4205-beaa-90eb0c63ed63,roughdried.eu,available,5.98,10.98,high,medium,10,namecheap,,,09/09/2026 18:59
 d9c0c900-9f9a-4f98-9a48-5e0f7821b83c,plausible.eu,resell,,,high,low,9,"Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html",,,26/09/2026 08:12
+e074dccb-d8a0-4cc6-8608-0a7bb0be07ef,ojibwe.eu,available,5.49,9.99,medium,low,6,namesilo,,,02/10/2026 08:24
 0476a837-6844-4d0c-b4f7-97c2697ef916,sexist.eu,available,5.49,9.99,medium,low,6,namesilo,,,10/09/2026 05:14
 b0473851-1935-4e92-b61b-86e58e8697ef,wolfish.eu,available,6.98,10.98,medium,low,7,namecheap,,,15/08/2026 07:01
 8420bbd4-5987-48c5-a4a5-57e15c17d24e,punishing.eu,available,5.49,9.99,medium,low,9,namesilo,,,06/08/2026 17:10
@@ -302,7 +318,7 @@ c5ad84ed-3f36-4040-ba9c-585ce12d997c,unrefined.eu,available,5.49,9.99,medium,low
 23de9a97-3e29-4e3b-a0a5-8cdb751e0870,monocled.eu,available,5.49,9.99,medium,low,8,namesilo,,,09/08/2026 17:15
 0f16e186-490e-401d-933f-9031520c56f1,inglorious.eu,available,6.98,10.98,medium,low,10,namecheap,,,21/08/2026 18:25
 bb4bf03c-907a-4485-87fa-0230d3ed7566,attracts.eu,available,5.49,9.99,medium,low,8,namesilo,,,30/09/2026 06:55
-a9d06ea6-182d-4fe9-8f98-8b3895a245d4,resignation.eu,premium,3482.43,,high,low,11,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,
+9c21ec09-31a3-485a-9de4-17de244785ec,hibbert.eu,available,6.98,10.98,medium,low,7,namecheap,,,03/10/2026 04:03
 8a081e58-2378-404c-8af1-272f5029648a,persons.eu,resell,,,high,low,7,,,,27/09/2026 21:14
 bd416453-8131-4aa0-9d46-97841af929ce,soviets.eu,available,5.49,9.99,high,low,7,namesilo,,,29/09/2026 13:58
 e5109420-184d-42ae-aeb7-b9abaf11b7e5,elkhart.eu,available,5.68,5.68,high,low,7,spaceship,,,30/09/2026 13:59
@@ -329,6 +345,7 @@ d3953230-1156-4d61-a4dd-dc3d8a007a90,bilsted.eu,available,6.98,10.98,medium,low,
 7ac8837f-7ffb-47a9-908f-7c1aa5891fbd,azoic.eu,available,5.49,9.99,medium,low,5,namesilo,,,08/08/2026 02:22
 73c888ae-287f-40c9-b6b1-7d52bf069cda,antecedent.eu,available,5.49,9.99,medium,low,10,namesilo,,,
 41db0c25-de05-45eb-a0cd-5d3429bc2bcd,servile.eu,available,5.49,9.99,medium,low,7,namesilo,,,10/09/2026 04:55
+b1adf333-e5a2-451a-be12-f8ae1eaad71c,audiencia.eu,available,5.68,5.68,medium,low,9,spaceship,,,02/10/2026 18:30
 948b50ff-6db2-48c1-b4ad-a06db2c35b68,domesticated.eu,available,5.68,5.68,high,low,12,spaceship,,,30/09/2026 19:43
 600208b6-bf54-4a2a-82ed-b9591759a510,detected.eu,resell,4685.1,11.99,high,low,8,Name: RegistrarHub Website: https://www.registrarhub.net/,,,26/09/2026 05:31
 9b1e47f2-b60b-4e31-8584-852b4e0174fb,recife.eu,resell,,,high,low,6,,,,01/10/2026 21:15
@@ -336,6 +353,7 @@ d3c932e8-58c4-4a74-97d3-80fee1ca07b3,marries.eu,available,6.98,10.98,medium,low,
 3660afe4-b9f9-408f-aaa2-0de8c9db8374,delible.eu,available,5.49,9.99,low,low,7,namesilo,,,14/08/2026 00:35
 8cc6672d-5451-4a28-a966-72421e4f6ef4,executions.eu,available,5.49,9.99,medium,low,10,namesilo,,,30/09/2026 07:47
 143f9028-6c24-470c-83e7-412424d3262b,ebonics.eu,available,5.49,9.99,medium,low,7,namesilo,,,16/09/2026 13:39
+0c17688f-9cce-4c8f-b9ec-e6105c138948,embezzlement.eu,available,5.49,9.99,medium,low,12,namesilo,,,02/10/2026 17:40
 43a1820b-9b21-4fff-8c3c-f0da1afc015f,anagrams.eu,available,6.98,10.98,high,low,8,namecheap,,,19/09/2026 01:29
 7a214cf4-00b0-4426-98ce-b5a6d0d1be02,barring.eu,available,5.68,5.68,medium,low,7,spaceship,,,29/09/2026 01:15
 6865000e-e3b0-4168-8987-bd73130f58d4,achene.eu,available,5.49,9.99,medium,low,6,namesilo,,,17/09/2026 00:28
@@ -356,13 +374,16 @@ e50b59aa-c0d1-48b9-a65e-fed351a63280,unmixed.eu,available,5.49,9.99,medium,low,7
 a54cf955-2e2f-4674-99a0-5c8dff2dcc3e,chalkboards.eu,available,5.49,9.99,low,low,11,namesilo,,,19/09/2026 23:25
 ff6380a0-b3a0-4169-9c22-e8ba3f362a39,premarital.eu,available,5.49,9.99,high,low,10,namesilo,,,22/09/2026 06:09
 13e428ff-5b08-453e-83f0-0a2a5b7e9e1b,amines.eu,available,4.37,6.28,medium,low,6,dynadot,,,29/09/2026 11:37
+94157a60-42fb-4055-b9ba-4fd2402545ad,objectionable.eu,available,5.68,5.68,low,low,13,spaceship,,,03/10/2026 02:45
 97a0adbd-40ab-478f-918e-016dc05210d7,infiltration.eu,available,6.98,10.98,medium,low,12,namecheap,,,30/09/2026 23:19
 e9e41376-4204-4108-80c6-64695eee7368,diagonally.eu,available,5.49,9.99,medium,low,10,namesilo,,,14/09/2026 12:34
 18bd54be-cb27-402b-b3b8-1183d9bb3178,libber.eu,available,5.49,9.99,medium,low,6,namesilo,,,18/08/2026 01:03
 3d32f1be-b3c5-4067-9a48-a4133cf34633,unfeasible.eu,available,5.49,9.99,medium,low,10,namesilo,,,21/08/2026 22:56
 7192a093-1cc5-4002-9087-d11a158ff716,mislaid.eu,available,5.49,9.99,medium,low,7,namesilo,,,25/08/2026 01:30
+d8fab985-b559-4929-b8ef-79edc3c18678,unlv.eu,available,5.49,9.99,medium,low,4,namesilo,,,02/10/2026 10:51
 e751ba97-ce8a-445b-a198-a6b7e952fdcb,categoric.eu,available,6.98,10.98,medium,low,9,namecheap,,,11/08/2026 21:29
 9f1a2013-fcc7-47a9-a897-70656d79169c,khakis.eu,available,4.35,6.26,medium,low,6,dynadot,,,30/09/2026 01:17
+0800f72f-d6a9-4f55-84ce-5e72c54b333d,leprosy.eu,available,5.68,5.68,medium,low,7,spaceship,,,02/10/2026 15:39
 bf3fe4b3-fe33-4a0c-a2df-5fb9bfd629bf,nationalism.eu,available,5.49,9.99,medium,low,11,namesilo,,,01/10/2026 13:46
 b95a7f50-dc3d-49a2-9a3d-0a0307387c5f,maidenly.eu,available,5.49,9.99,medium,low,8,namesilo,,,24/08/2026 13:14
 f1228d8f-5fb1-4711-9137-1d77196b79bd,toroidal.eu,available,5.98,10.98,medium,low,8,namecheap,,,11/09/2026 17:55
@@ -374,7 +395,6 @@ a23a9a17-9b7c-4eaa-b806-85656e89b61f,bidens.eu,available,4.37,6.28,medium,low,6,
 0b3a4185-8f4a-4d75-ae03-6bc48727c0cf,roiled.eu,available,5.49,9.99,medium,low,6,namesilo,,,
 5f4c1cbb-c1e2-45dd-8d10-7f31d092e5a6,stoolie.eu,available,5.49,9.99,medium,low,7,namesilo,,,11/08/2026 16:46
 12977474-d15a-4bcd-85d4-860178bcb7c9,abductor.eu,available,5.49,9.99,medium,low,8,namesilo,,,16/09/2026 14:54
-d750c40c-d8c0-4439-b4fc-30a8d92f9074,conjunction.eu,premium,5570.7,,high,low,11,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,
 50c2c842-f441-47f2-bd33-64da1b6cf73f,snuggled.eu,available,5.49,9.99,medium,low,8,namesilo,,,03/09/2026 15:48
 9bdeff52-1b99-492b-824f-3f8493216570,diligently.eu,available,5.49,9.99,medium,low,10,namesilo,,,14/09/2026 12:40
 c438e237-18e1-4021-aca7-5d56918fefaf,cyclical.eu,available,10.99,11.99,high,low,8,name.com,,,13/08/2026 13:34
@@ -414,13 +434,16 @@ ad706acd-4b57-462e-afad-77640e8758b2,perpetrator.eu,available,5.68,5.68,medium,l
 4aef61ec-4740-4cae-a269-e897d9b66877,pickens.eu,available,4.37,6.28,medium,low,7,dynadot,,,29/09/2026 10:02
 f8c08a39-4e44-4c90-ae3b-4964abe98a66,million.eu,resell,,,high,low,7,Name: eu-athene.at web invest gmbh & co KG Website: http://www.eu-athene.at,,,27/09/2026 06:39
 6ed1a57e-43a9-4920-a3ca-17a38734204c,mistakenly.eu,available,5.49,9.99,medium,low,10,namesilo,,,14/09/2026 16:00
+3ba8a183-1461-4bda-8c96-e62c2ed524c2,assurances.eu,resell,,,medium,low,10,,,,02/10/2026 22:12
 5670c56b-939c-4620-9f9d-c2ae5da209c8,generously.eu,available,5.98,10.98,medium,low,10,namecheap,,,14/09/2026 21:14
 0557e851-96d6-4f08-914c-ecdb08c1afc0,occurring.eu,resell,6.19,5.99,high,low,9,namesilo,,,01/10/2026 19:44
 1e0074b6-2cc1-4441-93a6-063e7efe7caf,viatical.eu,available,5.49,9.99,low,low,8,namesilo,,,13/09/2026 05:03
 6b5248e5-f4af-43c3-9b34-fd387e794463,boxlike.eu,available,5.49,9.99,medium,low,7,namesilo,,,10/08/2026 23:56
+2f2298ba-e3b1-49c1-8853-3ecf051b651d,shostakovich.eu,available,5.49,9.99,medium,low,12,namesilo,,,02/10/2026 10:47
 1eefdab4-6e8c-4842-b50e-6d25edb1c397,downed.eu,available,5.49,9.99,medium,low,6,namesilo,,,02/10/2026 03:42
 70194da0-a547-4020-902b-2aac4a5fb851,stream.eu,resell,,,high,medium,6,,,,27/09/2026 05:33
 f0d2cd50-dbfc-489d-8d7b-86c4982b7192,woeful.eu,available,5.49,9.99,medium,low,6,namesilo,,,17/08/2026 16:46
+0e22b8bc-dce5-486d-b7d9-6c143a56986b,wollaston.eu,available,5.49,9.99,medium,low,9,namesilo,,,02/10/2026 17:10
 c35d0322-15e7-4c8e-88fa-15656790ffa2,untroubled.eu,available,5.49,9.99,medium,low,10,namesilo,,,10/09/2026 01:30
 c334704e-e81c-488e-88ad-e4652864691b,bercy.eu,available,6.98,10.98,medium,low,5,namecheap,,,23/09/2026 09:16
 f0762be5-54e1-44c1-a97e-fb2785eacd75,russet.eu,available,5.98,10.98,medium,low,6,namecheap,,,09/09/2026 20:06
@@ -436,10 +459,11 @@ e132f82b-d015-44c0-93fe-c359ebb2f9d7,showery.eu,available,5.49,9.99,high,medium,
 37091edd-79ad-4fdd-8c32-f5caf30ad191,blooded.eu,available,5.49,9.99,medium,low,7,namesilo,,,10/08/2026 15:18
 c1c20cf6-f5d9-4e28-af53-297c3975e02c,stalemated.eu,available,10.99,11.99,low,low,10,name.com,,,13/08/2026 19:29
 9bbf82fe-f497-4a92-9f42-beaf5dcf8bbe,anaphase.eu,available,6.98,10.98,medium,low,8,namecheap,,,19/09/2026 02:09
-4f157046-dcbf-4e02-a644-562e5a6553ad,shall.eu,resell,,,high,low,5,Name: EuroDNS S.A. Website: https://www.eurodns.com/,,,26/09/2026 08:57
+4f157046-dcbf-4e02-a644-562e5a6553ad,shall.eu,resell,,,high,low,5,Name: EuroDNS S.A. Website: https://www.eurodns.com/,,,03/10/2026 04:51
 402e48df-d319-4b9e-8e51-1d937c245504,worshipful.eu,available,5.49,9.99,medium,low,10,namesilo,,,
 8f6bd0c6-0b0d-4745-b88f-b902f78c2fe3,eastmost.eu,available,5.49,9.99,medium,low,8,namesilo,,,14/08/2026 22:57
 4c7b9e42-44ad-46c2-a3b8-381dbbd89ab1,dominican.eu,premium,1364.54,11.99,high,low,9,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,14/08/2026 15:44
+533c17b0-bd17-4fc2-b1a4-fe381941d0c5,booby.eu,available,5.68,5.68,medium,low,5,spaceship,,,02/10/2026 23:39
 0b0f88f0-3302-4d57-9a2c-bdb9e0733d75,texarkana.eu,available,5.68,5.68,medium,low,9,spaceship,,,30/09/2026 18:56
 1395bb9f-1a30-4b10-bf07-fd8cf60d8b28,talebearer.eu,available,5.49,9.99,medium,low,10,namesilo,,,11/09/2026 10:34
 6a86c5b2-0af0-40af-92fc-3652576ec1dc,centimeters.eu,available,5.68,5.68,medium,low,11,spaceship,,,29/09/2026 17:55
@@ -447,6 +471,7 @@ c1c20cf6-f5d9-4e28-af53-297c3975e02c,stalemated.eu,available,10.99,11.99,low,low
 87cb3cde-3995-4929-a488-b31c5754d2be,cleanable.eu,available,5.49,9.99,medium,low,9,namesilo,,,12/08/2026 10:19
 9083d49f-6b24-4ade-8683-caaa1ef207dd,stubbornly.eu,available,5.49,9.99,medium,low,10,namesilo,,,14/09/2026 10:12
 970bf152-4df1-4230-af2f-3e782fc99c57,lunched.eu,available,10.99,11.99,medium,low,7,name.com,,,21/09/2026 04:17
+9717ee2f-181e-4c1e-acfd-fa18ec8f3a82,theodoric.eu,available,4.86,6.22,medium,low,9,dynadot,,,03/10/2026 04:48
 f22041bc-dc97-4528-bd74-ced8d608892f,hesitation.eu,available,5.49,9.99,medium,low,10,namesilo,,,24/09/2026 16:28
 32456622-24d4-4407-8ec2-64a13846b039,barbecuing.eu,available,5.49,9.99,high,low,10,namesilo,,,22/09/2026 04:46
 bccb938a-392b-43a3-b0c6-249600aaa9ce,expulsion.eu,available,8.99,12.99,medium,low,9,godaddy,,,30/09/2026 01:29
@@ -456,6 +481,7 @@ c42bb1f0-81f2-416d-9993-b770f9183bba,visored.eu,available,5.49,9.99,medium,low,7
 bd8f0146-e1ef-4dea-86b6-dcb24b652428,cathartic.eu,available,5.49,9.99,medium,low,9,namesilo,,,05/08/2026 22:20
 e4fabafe-4540-4c12-aa28-bb96f13f8502,glanced.eu,available,6.98,10.98,medium,low,7,namecheap,,,18/09/2026 01:59
 96b1dd68-89e1-4acd-acbd-751b6363cff6,autogenic.eu,available,5.49,9.99,medium,low,9,namesilo,,,07/08/2026 20:21
+5d93a81f-c477-4009-9baf-01ba00a45ebd,salinger.eu,available,5.68,5.68,medium,low,8,spaceship,,,03/10/2026 01:20
 8232be7f-95cc-42b8-b748-f00507c5b42e,inducive.eu,available,5.49,9.99,medium,low,8,namesilo,,,22/08/2026 03:31
 fcd96b0a-b656-442e-84dc-fcbc1c3de914,defaulted.eu,available,5.49,9.99,low,low,9,namesilo,,,21/09/2026 07:28
 3cee2b83-0058-40a0-a7e0-4552fa78b4e2,maddened.eu,available,5.49,9.99,low,low,8,namesilo,,,
@@ -493,6 +519,7 @@ e3a97d99-48e5-476e-aad2-040bbd37c31f,bewitching.eu,available,6.98,10.98,medium,l
 9c06e338-a290-42f7-abf3-9997d98b7d52,angolan.eu,available,5.49,9.99,medium,low,7,namesilo,,,
 1fd2c26a-e0a5-408e-97d2-88583489f81a,whitten.eu,available,5.49,9.99,medium,low,7,namesilo,,,30/09/2026 04:15
 2386b5a4-04c2-485c-b75d-e7d80f04c256,characterized.eu,available,5.68,5.68,low,low,13,spaceship,,,30/09/2026 23:27
+2142bbe3-e500-4b56-87c4-4c38632827db,brig.eu,resell,,,medium,low,4,,,,02/10/2026 14:29
 cf43b3b2-c16e-4903-bc44-49b4ac27ca7a,monophonic.eu,available,5.49,9.99,medium,low,10,namesilo,,,25/08/2026 04:55
 be6b62e5-f798-4bd4-8e8c-28a029d43f71,gwynedd.eu,available,5.68,5.68,medium,low,7,spaceship,,,02/10/2026 00:00
 6afbc609-7b25-43be-a71d-1251da571b4e,ibuprofen.eu,available,5.49,9.99,high,low,9,namesilo,,,17/09/2026 11:14
@@ -526,10 +553,13 @@ e8b3ac54-700e-4bdf-90f1-0d6e34241ee4,appointee.eu,available,5.49,9.99,medium,low
 875d83d5-6fd4-4e53-b456-a3de0eb48003,precambrian.eu,available,5.49,9.99,medium,low,11,namesilo,,,29/09/2026 04:02
 07a5b81d-4944-4842-bd72-2bf864bc6610,gymnastics.eu,resell,,,high,low,10,,,,29/09/2026 01:12
 daf13646-b8a8-49ed-a818-cbd5428a18d0,unobserved.eu,available,5.49,9.99,medium,low,10,namesilo,,,12/09/2026 16:04
+995b60a6-bbbb-41ba-bcf9-a1da06c09135,launceston.eu,available,5.49,9.99,medium,low,10,namesilo,,,02/10/2026 20:38
 57a5586a-f029-4249-ac91-0e6b59c76c38,clawed.eu,available,5.49,9.99,medium,low,6,namesilo,,,12/08/2026 10:02
+05638e4f-ef87-4163-83ca-9a799403dbbe,supplements.eu,resell,,,medium,low,11,,,,02/10/2026 14:12
 0611b284-7664-47c2-9a68-d9754ace9e82,audad.eu,available,5.49,9.99,medium,low,5,namesilo,,,18/09/2026 22:16
 96844e88-94da-483b-90cf-561ce9bb27d0,dissenter.eu,available,5.49,9.99,medium,low,9,namesilo,,,14/08/2026 12:39
 453aaaa5-5f1c-43c1-b3f2-8c9735b1f4b4,adenoid.eu,available,5.49,9.99,medium,low,7,namesilo,,,
+3a191309-5129-4a7e-84f8-222c22956734,proportional.eu,available,4.86,6.21,high,low,12,dynadot,,,02/10/2026 06:54
 59194298-aa8f-4caa-a632-ffc4e2a565be,beggars.eu,available,5.68,5.68,medium,low,7,spaceship,,,01/10/2026 17:57
 6c57c0ae-4bd6-4a58-b65e-f74ef2a2ba1c,naively.eu,available,5.49,9.99,medium,low,7,namesilo,,,15/09/2026 16:00
 bde64f13-8491-4a09-a8a0-7c7d48f3b14a,culpable.eu,available,5.49,9.99,medium,low,8,namesilo,,,10/08/2026 12:34
@@ -540,11 +570,12 @@ df3f257f-30e2-4f10-8316-042109ee8a29,clinquant.eu,available,5.49,9.99,medium,low
 eaf745d5-f10b-47e4-83ca-696735c76c79,high.eu,resell,,,high,low,4,Name: Internet Service Europe BV Website: www.i-s-e.nl,,,26/09/2026 06:39
 1e759c9d-6a92-434e-b308-2c3ed7388a9d,pointing.eu,premium,3933,11.99,high,low,8,name.com,,,27/09/2026 08:31
 aa9da27b-c5c0-4c8e-85f3-85c6aa410355,bearnaise.eu,available,6.98,10.98,medium,low,9,namecheap,,,22/09/2026 21:23
-8e87a437-70d6-4941-bed9-0347172cb114,remote.eu,resell,,,high,medium,6,Name: InterNetX GmbH Website: https://internetx.com,,,26/09/2026 08:35
+8e87a437-70d6-4941-bed9-0347172cb114,remote.eu,resell,,,high,medium,6,Name: InterNetX GmbH Website: https://internetx.com,,,03/10/2026 03:20
 5e517975-1972-41a4-97a4-54dba068268b,diaphanous.eu,available,5.49,9.99,medium,low,10,namesilo,,,12/08/2026 14:26
 fe0506e8-742a-449c-97c2-13e915c6fd83,nahuatl.eu,available,5.49,9.99,medium,low,7,namesilo,,,01/10/2026 03:02
 1b5d9532-a4fb-4867-9e60-bb509d11ff63,uncounted.eu,available,5.49,9.99,medium,low,9,namesilo,,,13/08/2026 03:44
 b3c12475-1bac-43b5-b7e0-01b20e0477f1,polydactyl.eu,available,5.49,9.99,medium,low,10,namesilo,,,08/09/2026 23:13
+2f381177-36b2-4b39-a8f2-11af74fe086c,dusting.eu,available,5.68,5.68,medium,low,7,spaceship,,,02/10/2026 06:55
 6e9247ac-628f-4fe4-ba5e-9ee1be18d36a,privily.eu,available,5.49,9.99,low,low,7,namesilo,,,15/09/2026 21:31
 94c7e2e8-9156-4b60-939d-bded66440316,pettifog.eu,available,6.98,10.98,low,low,8,namecheap,,,23/09/2026 13:20
 ab73996d-ec3f-475c-b5a6-1dbd3cb54e97,lordly.eu,available,5.49,9.99,medium,low,6,namesilo,,,07/08/2026 17:05
@@ -573,6 +604,7 @@ b8e4ebb6-dc87-402c-99c9-9369419e1b99,slipping.eu,available,5.49,9.99,medium,low,
 5988c741-04e0-4119-8b3d-e057c7c9504e,stays.eu,resell,,,high,low,5,Name: 101domain GRS Ltd. Website: https://www.101domain.com/,,,26/09/2026 09:17
 c15ce382-8f6d-4d22-8624-7c28fbcf6e0a,markovian.eu,available,5.49,9.99,medium,low,9,namesilo,,,24/08/2026 16:06
 93ef3969-8c5f-45d6-bbc5-cf79f294a698,despoiled.eu,available,5.49,9.99,medium,low,9,namesilo,,,14/08/2026 04:23
+90c65298-40cd-431b-84ae-916baebb89ab,historians.eu,available,5.49,9.99,medium,low,10,namesilo,,,02/10/2026 12:47
 1552a950-ebab-435f-8cd2-f12765ee7c02,mutinous.eu,available,5.49,9.99,medium,low,8,namesilo,,,03/09/2026 11:55
 fd0d5aec-0eaa-455c-84a8-e49257e1aef1,recognizing.eu,available,5.49,9.99,medium,low,11,namesilo,,,30/09/2026 23:30
 1d7ec6c9-1bfc-4210-9500-1aa56934bf70,crucified.eu,available,5.49,9.99,medium,low,9,namesilo,,,30/09/2026 06:13
@@ -590,6 +622,7 @@ e9a2f3b9-9ed8-46fa-9fb5-a6976eeac4cb,dickhead.eu,available,5.49,9.99,medium,low,
 27a55750-c951-438b-853a-f8b9fc72d5d6,petitioner.eu,available,5.49,9.99,medium,low,10,namesilo,,,11/09/2026 03:30
 4007fc26-6882-4e23-b460-b61b67114f01,discoid.eu,available,5.49,9.99,medium,low,7,namesilo,,,14/08/2026 09:38
 4bf8e1e6-d5fc-40f8-9bf7-462e63457b00,glinting.eu,available,5.49,9.99,medium,low,8,namesilo,,,
+f7edd28b-ad06-45f5-a7d2-cd99f320c923,plantations.eu,available,5.68,5.68,low,low,11,spaceship,,,02/10/2026 12:59
 96691f35-1ba5-4069-ad6c-2c58aede6a93,unassuming.eu,available,5.49,9.99,high,low,10,namesilo,,,27/09/2026 13:26
 938ae24d-9d81-48f7-8bda-cd0c5d886946,toxic.eu,resell,,,medium,low,5,"Name: SIA ""DOMĒNI"" Website: http://www.nc.lv",,,28/09/2026 09:26
 8172423f-8c0f-4316-9a76-e7cd10d27cfd,donkeywork.eu,available,5.98,10.98,medium,low,10,namecheap,,,08/09/2026 21:22
@@ -629,6 +662,7 @@ c148c381-c0bc-4438-af80-822547bf82de,williamsport.eu,available,6.98,10.98,medium
 2767f01d-a92b-4791-9b5a-932d59f2f024,convexly.eu,available,5.49,9.99,medium,low,8,namesilo,,,14/09/2026 08:39
 b9fb29df-a204-4bc9-9dea-b832c2746e2b,mancunian.eu,available,5.49,9.99,medium,low,9,namesilo,,,24/08/2026 14:36
 bdd2bd4e-cede-4795-9caf-12bd3428e5e8,betrothal.eu,available,5.49,9.99,high,low,9,namesilo,,,23/09/2026 11:34
+24101852-44ed-4519-aaa2-43295a19464b,infested.eu,available,5.68,5.68,low,low,8,spaceship,,,02/10/2026 21:56
 7230de26-c09c-40d2-bf17-66b732c4dc2c,bragger.eu,available,5.49,9.99,medium,low,7,namesilo,,,11/08/2026 01:14
 3f57d66d-69dc-4ddf-8a32-051ed1123d85,unafraid.eu,available,5.49,9.99,medium,low,8,namesilo,,,10/09/2026 01:28
 0993a0a1-2155-4379-85c6-876e330faa26,canvasback.eu,available,6.98,10.98,medium,low,10,namecheap,,,21/09/2026 10:51
@@ -636,6 +670,7 @@ bdd2bd4e-cede-4795-9caf-12bd3428e5e8,betrothal.eu,available,5.49,9.99,high,low,9
 b26741ed-02f7-44d2-a1e4-2c3d6211e9b4,nigerien.eu,available,5.49,9.99,medium,low,8,namesilo,,,03/09/2026 17:14
 09cedfbc-765f-439a-bc0f-0c8a5648bc7f,advertizer.eu,available,5.49,9.99,medium,low,10,namesilo,,,17/09/2026 08:39
 f0018bc7-fa50-421f-bf18-afad814de8bc,amain.eu,resell,,,medium,low,5,"Name: SIA ""DOMĒNI"" Website: http://www.nc.lv",,,26/09/2026 03:50
+4a6c143a-3731-4f53-b6ba-d564a3b2e8f2,mounds.eu,available,5.68,5.68,low,low,6,spaceship,,,02/10/2026 13:16
 7247226a-a984-4452-a5fe-052fc5fcfeb7,southey.eu,available,6.98,10.98,medium,low,7,namecheap,,,01/10/2026 21:34
 6d164ec7-683d-4d76-968e-ad6bcabcc186,uncultivated.eu,available,5.49,9.99,medium,low,12,namesilo,,,01/10/2026 05:35
 94e7c19a-ffce-4e55-bd8d-1a8356e6e4e2,satellites.eu,resell,,,medium,low,10,Name: web invest gmbh Website: http://www.web-invest.at,,,26/09/2026 08:49
@@ -651,11 +686,13 @@ e4b35d19-cee8-48ec-8b77-23d881ce4768,ipc.eu,resell,,,medium,low,3,,,,28/09/2026 
 4442668d-5547-4b61-b708-e9337b385cc7,motivated.eu,premium,4156.41,11.99,high,low,9,Name: NETIM Website: https://www.netim.com/,,,25/08/2026 07:31
 c1d5445e-849a-409f-bc77-64de4d65bfeb,stinging.eu,available,10.99,11.99,medium,low,8,name.com,,,13/08/2026 13:17
 fd869509-924f-4cec-b780-f40953bedc05,typic.eu,available,5.49,9.99,medium,low,5,namesilo,,,11/09/2026 22:29
+23140383-0d3d-4490-8da6-4a48305745db,hartlepool.eu,available,4.86,6.21,medium,low,10,dynadot,,,02/10/2026 19:29
 cde75245-8b87-4003-bb1f-4cdf45c80d45,asynchrony.eu,available,5.49,9.99,medium,low,10,namesilo,,,20/09/2026 18:41
 f9391536-1c60-493f-a9ce-425cb926728f,controlling.eu,resell,,,high,low,11,Name: InterNetX GmbH Website: https://internetx.com,,,01/10/2026 20:03
 c08d1c0d-4c94-4b2f-85bd-d71c74a10fa1,afterward.eu,available,5.49,9.99,medium,low,9,namesilo,,,
 281c8b68-cc2c-48c2-a01b-14dc581b5bea,capsulated.eu,available,6.98,10.98,medium,low,10,namecheap,,,11/08/2026 18:12
 c41e76f0-7998-411c-bf3d-31a1a7eccb94,aggregated.eu,available,5.49,9.99,medium,low,10,namesilo,,,
+82aa8b0a-1565-4182-a150-a3af516367e4,mineralized.eu,available,5.88,5.88,medium,low,11,porkbun,,,03/10/2026 03:41
 f3600556-6632-4883-845d-c0fbdb1d5c13,unshaven.eu,available,5.49,9.99,medium,low,8,namesilo,,,12/09/2026 19:40
 058cb5ab-f3c2-4e60-b5f5-13b13437ac49,demeanor.eu,available,5.49,9.99,high,low,8,namesilo,,,24/09/2026 21:47
 19408e8d-9abe-4ce6-839e-33c87a69a883,rostrum.eu,available,6.98,10.98,medium,low,7,namecheap,,,18/09/2026 17:15
@@ -666,6 +703,7 @@ c0e8f5e5-4487-4717-b073-7ac5998913bc,encumbered.eu,available,6.98,10.98,medium,l
 c474c605-6f2d-4e04-b7d6-b566cbeccb4a,softback.eu,available,5.49,9.99,high,low,8,namesilo,,,05/09/2026 01:13
 723040df-872d-4a46-bd9c-b7ba97d414f3,flowered.eu,available,5.49,9.99,high,low,8,namesilo,,,18/08/2026 08:56
 6e0c8e1a-a273-454e-95b5-df1d52ec31bb,cherubic.eu,available,5.49,9.99,medium,low,8,namesilo,,,12/08/2026 04:25
+6b834828-4a05-4ba8-8b64-54fe9c6b246b,wrexham.eu,available,5.49,9.99,medium,low,7,namesilo,,,02/10/2026 08:27
 bbcfef33-48e1-4f0e-b7fe-875460439cab,fatherless.eu,available,5.49,9.99,medium,low,10,namesilo,,,17/08/2026 23:34
 7ce80b8a-a460-46ef-a35a-f86dc6593f8a,quake.eu,resell,,,medium,low,5,,,,29/09/2026 18:44
 de546a79-a7bb-4f29-82ba-5ce1e0093af3,disrespectful.eu,available,5.68,5.68,medium,low,13,spaceship,,,30/09/2026 19:29
@@ -681,6 +719,7 @@ e5fbfd1b-8005-4d1d-b219-5741ce496879,degraded.eu,available,10.99,11.99,medium,lo
 dfe06820-d6ed-4b90-ad39-e6c17c2ab7aa,enmity.eu,available,5.49,9.99,medium,low,6,namesilo,,,19/09/2026 12:26
 2c61c5b6-976a-4672-9e5b-381923c3217a,untwisted.eu,available,5.49,9.99,medium,low,9,namesilo,,,12/09/2026 21:56
 77b97bb8-0a2e-46a2-9d61-bea447610d58,vigilantly.eu,available,5.49,9.99,medium,low,10,namesilo,,,16/09/2026 10:54
+4a8423b0-ce15-4061-9d5c-e5578b3a060a,delinquency.eu,available,5.68,5.68,medium,low,11,spaceship,,,02/10/2026 22:11
 ab32fe1e-90e0-4dd0-a626-7b5c99c9d528,phyllodial.eu,available,5.98,10.98,high,medium,10,namecheap,,,08/09/2026 19:25
 12a57b5d-3f1b-4738-9902-7df8d9d2fb2c,marched.eu,available,5.49,9.99,low,low,7,namesilo,,,29/09/2026 10:58
 ab8f472f-9e32-49c9-91d4-0e36794af180,chartless.eu,available,5.49,9.99,medium,low,9,namesilo,,,12/08/2026 02:52
@@ -708,11 +747,13 @@ e51241d0-9232-4f75-a2ae-1025e621ddea,vitamin.eu,resell,,,high,low,7,Name: EuroDN
 ae1fe9c1-1353-4cd7-b3fc-b55b527eecc2,apraxia.eu,available,5.49,9.99,medium,low,7,namesilo,,,19/09/2026 22:29
 e35a9eb6-2732-461e-9842-76b6d7af8871,embarrassed.eu,available,6.98,10.98,medium,low,11,namecheap,,,27/09/2026 06:32
 3d26d5c6-e9be-49ee-b058-e568dcea97b3,porn.eu,resell,,,high,medium,4,,,,28/09/2026 05:37
+81006243-4261-491f-9179-5d5244fec982,walsall.eu,resell,,,medium,low,7,,,,02/10/2026 20:19
 bdb10e7d-bc2e-4cae-80df-383727cfe567,antlered.eu,available,5.49,9.99,medium,low,8,namesilo,,,05/08/2026 20:11
 7c6272ca-835f-4e80-af80-60bb1740956d,latakia.eu,available,5.49,9.99,medium,low,7,namesilo,,,18/09/2026 01:28
 a8076f7a-36b8-4b26-b028-745bad713a58,hagerstown.eu,available,5.68,5.68,high,low,10,spaceship,,,29/09/2026 19:06
 e15d450c-8ee3-42ec-af59-f01f9aff26af,practicality.eu,available,5.49,9.99,high,low,12,namesilo,,,16/09/2026 09:33
 65ca48f1-8b74-4f5b-96f6-053c4e1df5f3,cypriote.eu,available,10.99,11.99,medium,low,8,name.com,,,13/08/2026 14:05
+78956aa2-0083-449b-94c2-ba90cf64d4bd,recalling.eu,available,6.98,10.98,medium,low,9,namecheap,,,02/10/2026 21:33
 8f6012ae-4247-42fc-8757-9ea17a07c4e5,separable.eu,available,5.49,9.99,medium,low,9,namesilo,,,14/08/2026 12:50
 09132167-0786-481b-b2cf-5418420ad784,diatonic.eu,premium,2050.37,11.99,medium,low,8,Name: INFOCAL sp. z o.o. Website: https://www.cal.pl,,,14/08/2026 06:21
 76855f79-483e-4f3e-a37d-735c3732cd2b,sorrows.eu,available,5.68,5.68,low,low,7,spaceship,,,01/10/2026 16:36
@@ -721,6 +762,7 @@ e15d450c-8ee3-42ec-af59-f01f9aff26af,practicality.eu,available,5.49,9.99,high,lo
 2e91380b-eaba-44d6-9ddf-39c548a22766,annoyance.eu,available,5.49,9.99,high,low,9,namesilo,,,
 edaee970-227b-4875-bb48-77aae0d07e7a,size.eu,resell,,,high,low,4,"Name: Spaceship, Inc. Website: https://www.spaceship.com/",,,27/09/2026 22:17
 bfb8e1bb-a3df-4720-b417-39eaae715e70,drubbing.eu,available,5.49,9.99,medium,low,8,namesilo,,,13/09/2026 07:58
+387a4a50-1282-4423-aac5-009b3f0e25b9,clarksburg.eu,available,5.49,9.99,medium,low,10,namesilo,,,02/10/2026 14:39
 ffc55fbc-0c28-4348-a945-59dd5cfe4328,resistible.eu,available,5.49,9.99,medium,low,10,namesilo,,,09/09/2026 15:20
 7bf18d57-8a02-4eb6-9b29-aae0f0e057fb,catechu.eu,available,6.98,10.98,medium,low,7,namecheap,,,16/09/2026 20:04
 35eee246-1661-4894-a8fe-e642d72d6601,unseeing.eu,available,5.49,9.99,high,medium,8,namesilo,,,10/09/2026 07:57
@@ -735,6 +777,7 @@ a0e71c0d-5244-448f-929c-d9bc29a7c197,pulmonic.eu,available,5.49,9.99,high,medium
 3cab427b-6be3-4980-ae5d-88e60e7b3fe4,chequebook.eu,available,5.49,9.99,high,low,10,namesilo,,,24/09/2026 13:58
 394e6067-dcb3-4910-98de-e85221f8bc09,spastic.eu,available,5.49,9.99,medium,low,7,namesilo,,,13/08/2026 00:06
 186bf0ba-eb2d-4314-a9c0-806738aae759,fucking.eu,resell,,,high,low,7,Name: Registrar.eu Website: https://www.openprovider.com,,,26/09/2026 06:16
+6ba70b59-ae5f-432f-9557-7591c8923886,transformers.eu,resell,,,high,low,12,,,,02/10/2026 12:20
 64deb295-2ffa-4f36-b64b-2c8ba32f05f1,anecdotal.eu,available,5.49,9.99,medium,low,9,namesilo,,,
 e1c1a301-b611-4e92-8cc1-e3b09d7ec905,stemmed.eu,available,5.49,9.99,medium,low,7,namesilo,,,11/08/2026 22:33
 843d7eef-bf09-4098-94ae-c29eb9869a9b,hysteric.eu,resell,,,medium,low,8,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,26/09/2026 06:47
@@ -744,8 +787,8 @@ e1c1a301-b611-4e92-8cc1-e3b09d7ec905,stemmed.eu,available,5.49,9.99,medium,low,7
 16070f3a-e1ab-43d1-82f4-0df0d7f48533,honoured.eu,available,5.49,9.99,medium,low,8,namesilo,,,29/09/2026 03:18
 318db3f9-3059-4c39-a6d5-c8a8ed74cb9d,cottony.eu,available,5.49,9.99,medium,low,7,namesilo,,,13/08/2026 03:26
 c5dae684-abc0-4008-9ab4-161ea111906f,conical.eu,available,6.98,10.98,high,low,7,namecheap,,,12/08/2026 20:41
+bbd34e4b-963f-4859-9db2-fc796c2392a0,stonington.eu,available,5.68,5.68,medium,low,10,spaceship,,,03/10/2026 06:21
 04446844-8404-4663-aee0-60980a44147e,decolour.eu,available,5.49,9.99,medium,low,8,namesilo,,,24/09/2026 05:11
-03f3cab7-203f-4b92-92f5-749e81765b34,islands.eu,premium,2089.46,,high,low,7,Name: Really Useful Domains Ltd Website: www.reallyusefuldomains.co.uk,,,
 17e2fc39-bd3a-4756-96a6-84e5dd5c9241,venushair.eu,available,6.98,10.98,medium,low,9,namecheap,,,17/09/2026 08:07
 5e4e82e6-86b8-426d-af00-92dbc158dd85,foodless.eu,available,5.49,9.99,low,low,8,namesilo,,,18/08/2026 10:26
 d0deed70-dc37-4178-98ea-9f10909096bd,sixteenth.eu,available,5.49,9.99,high,low,9,namesilo,,,
@@ -765,6 +808,7 @@ c48fa8de-27c4-432a-af72-e6ca02797bc4,nonetheless.eu,available,5.68,5.68,medium,l
 a8557a8b-2723-48ed-9dd9-c6b14843d364,coercive.eu,available,5.49,9.99,medium,low,8,namesilo,,,12/08/2026 15:24
 933a3108-f314-4a2d-895d-1131b87ae45a,bahraini.eu,available,5.49,9.99,medium,low,8,namesilo,,,08/08/2026 08:36
 de48f486-502c-448c-a78b-cc96c001ea86,avowal.eu,available,10.99,11.99,medium,low,6,name.com,,,17/09/2026 14:26
+27f48b25-c9bb-4304-b918-fe24410d7027,violates.eu,available,5.68,5.68,low,low,8,spaceship,,,02/10/2026 22:34
 5d424210-9002-4685-bc83-4f8c6a420597,methionine.eu,available,5.68,5.68,medium,low,10,spaceship,,,30/09/2026 02:16
 39fb55ba-23d4-46bd-b9ba-78b3e6058457,geographical.eu,available,6.98,10.98,high,low,12,namecheap,,,29/09/2026 21:14
 f42dca92-c6cf-46ce-88c1-4e76f0950643,breathed.eu,available,5.49,9.99,medium,low,8,namesilo,,,11/08/2026 03:16
@@ -772,7 +816,7 @@ f42dca92-c6cf-46ce-88c1-4e76f0950643,breathed.eu,available,5.49,9.99,medium,low,
 15385e94-954b-4e69-b289-64a5ce537a5d,garrulous.eu,available,5.49,9.99,medium,low,9,namesilo,,,12/08/2026 03:20
 c198975e-adda-4ba7-83e8-171b7608016b,advertence.eu,available,5.49,9.99,medium,low,10,namesilo,,,17/09/2026 11:06
 9890ef99-1e34-4a79-87e3-ee15df7d2239,kick.eu,resell,,,high,high,4,,,,27/09/2026 03:59
-e82e2503-1532-4399-bf98-bc9198a1a6fb,propagated.eu,available,5.49,9.99,medium,low,10,namesilo,,,
+e82e2503-1532-4399-bf98-bc9198a1a6fb,propagated.eu,available,6.98,10.98,medium,low,10,namecheap,,,02/10/2026 18:30
 b5f4285d-2fa8-4be9-878b-5ef3b3bdcc1b,boltzmann.eu,available,5.49,9.99,medium,low,9,namesilo,,,30/09/2026 08:42
 76b99b88-d5f5-43b8-b57f-f7ba4e8b9035,implying.eu,available,5.49,9.99,high,low,8,namesilo,,,01/10/2026 23:05
 fd230de5-832a-46d7-84a4-d1b9a52e7f20,wagering.eu,resell,,,medium,low,8,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,01/10/2026 19:03
@@ -801,6 +845,7 @@ ef2ad739-397d-45a5-a4f8-b59dc73805c4,nicaea.eu,available,5.68,5.68,medium,low,6,
 eee51b4f-8384-42e3-ac90-14d883621292,uncontrollable.eu,available,5.49,9.99,medium,low,14,namesilo,,,
 0c0dd866-ddcf-4d3a-be90-18250ecca614,calamitous.eu,available,5.49,9.99,medium,low,10,namesilo,,,11/08/2026 13:28
 dc70c72b-e865-4b98-8b80-215b34fb799e,voidable.eu,available,5.49,9.99,medium,low,8,namesilo,,,09/09/2026 14:47
+3cc07c6b-4153-4245-86b7-53fa34d2b291,dislocation.eu,available,5.49,9.99,medium,low,11,namesilo,,,03/10/2026 06:57
 f3b5068d-af25-4aa9-ba05-e9938f0ae6ab,overgrowth.eu,available,5.68,5.68,medium,low,10,spaceship,,,01/10/2026 19:47
 b904287d-0adc-4086-a0c2-36829fca865c,beria.eu,available,5.49,9.99,medium,low,5,namesilo,,,23/09/2026 09:22
 1416436b-aefc-4b5f-a9a2-8f4a2ec2663f,peaked.eu,available,5.68,5.68,medium,low,6,spaceship,,,29/09/2026 21:11
@@ -824,7 +869,7 @@ cc5c9548-d2ec-4c56-bf05-a5289d527000,sprightly.eu,available,5.49,9.99,high,low,9
 4c5ba968-fa98-47a8-aeb4-97c3ee849051,bullish.eu,resell,3195.85,11.99,high,low,7,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,26/09/2026 04:40
 ce493c96-6cee-4a86-8437-b01f6a9b4070,upbringing.eu,available,4.37,6.28,high,low,10,dynadot,,,29/09/2026 18:06
 18a75686-2819-4b63-9770-a88ba2ecb7de,downscale.eu,available,6.98,10.98,medium,low,9,namecheap,,,14/08/2026 17:52
-29c98fd2-8908-4215-8851-aa29c7fe7b89,headteacher.eu,available,10.99,,high,low,12,name.com,,,
+29c98fd2-8908-4215-8851-aa29c7fe7b89,headteacher.eu,available,4.86,6.21,high,low,12,dynadot,,,02/10/2026 16:28
 db9cb92a-16b2-4910-8c58-2653947735f1,abeyant.eu,available,5.49,9.99,medium,low,7,namesilo,,,
 b74026bb-9251-486c-b3f3-bbb1d239b27d,commanding.eu,available,5.49,9.99,high,low,10,namesilo,,,23/09/2026 15:41
 4dd02067-baac-403c-8902-429bf38bf100,bahamian.eu,available,5.49,9.99,medium,low,8,namesilo,,,08/08/2026 08:31
@@ -855,17 +900,20 @@ b8b170b2-77df-4533-b73e-52bcf4981d6f,confessing.eu,available,5.68,5.68,medium,lo
 00e58d9a-4779-4c6b-8d8e-df350872dd7c,neritic.eu,available,5.49,9.99,low,low,7,namesilo,,,03/09/2026 15:41
 f78f51b5-7519-42e9-b832-9445ffd62b79,syndetic.eu,available,5.49,9.99,medium,low,8,namesilo,,,11/09/2026 06:23
 ff210f5f-fd10-4b9a-8286-1912e00d0d13,sunburned.eu,available,5.49,9.99,medium,low,9,namesilo,,,11/09/2026 01:46
+e9f60ec5-1076-43f2-a3f7-50054fd22b3d,jilin.eu,available,5.68,5.68,medium,low,5,spaceship,,,02/10/2026 19:29
 dbbb78c3-1a83-4e09-953b-e00e8f630bc5,swelled.eu,available,5.49,9.99,medium,low,7,namesilo,,,11/09/2026 05:38
 40e830bf-87ff-4308-864a-377834e71335,outpouring.eu,available,5.49,9.99,medium,low,10,namesilo,,,22/09/2026 07:58
 c0944de7-b3f3-44c2-b645-b9c37de6d7dc,shrewdness.eu,available,6.98,10.98,high,low,10,namecheap,,,20/09/2026 18:18
 0bd99c61-65cd-46a9-bf97-ecda8fa23c90,whammy.eu,available,5.49,9.99,medium,low,6,namesilo,,,21/08/2026 07:39
 034b6309-15ff-40b5-a501-06736b66270d,violated.eu,available,5.49,9.99,medium,low,8,namesilo,,,27/09/2026 07:04
 2500d0a0-1ff3-442a-83db-2f9e4577b015,smoothed.eu,available,5.49,9.99,medium,low,8,namesilo,,,10/09/2026 12:07
+9b2edb63-9eff-4480-ba24-ecd913bae3df,overpowering.eu,available,6.98,10.98,medium,low,12,namecheap,,,03/10/2026 03:16
 5375398a-bb58-469a-90be-ec7be9c5ffdd,conflicting.eu,available,5.88,5.88,medium,low,11,porkbun,,,30/09/2026 03:55
 93a8b203-ec79-49f1-9f00-5a3e72e4fa98,assassination.eu,available,5.49,9.99,medium,low,13,namesilo,,,28/09/2026 11:16
 7826aaaa-a866-440c-a9cc-6139fb61ebe9,unstained.eu,available,5.98,10.98,medium,low,9,namecheap,,,10/09/2026 18:17
 333469b3-7a26-485b-80a2-cc06d9f0b835,barbican.eu,resell,,,medium,low,8,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,26/09/2026 04:16
 e6eb216d-afaa-4a4f-9d2d-492754d46c69,bligh.eu,available,5.88,5.88,medium,low,5,porkbun,,,01/10/2026 18:42
+3c271ac6-2281-4b5e-9d63-dcd240a5a169,trevelyan.eu,available,5.68,5.68,medium,low,9,spaceship,,,03/10/2026 00:57
 05a1cc8f-f705-434f-9821-dd11c2711880,shitless.eu,available,5.49,9.99,high,medium,8,namesilo,,,10/09/2026 06:39
 23e8ee91-36b4-4dbb-823c-d64a6d599113,beach.eu,resell,,,high,low,5,Name: Ascio Technologies Inc. Website: https://www.ascio.com,,,29/09/2026 01:36
 8ed4a95b-8138-49e8-b8a7-f24280a01d7a,schizophrenia.eu,resell,,,medium,low,13,,,,30/09/2026 06:00
@@ -876,6 +924,7 @@ a578888e-0c05-4fa1-817c-2f7e367b7637,focuses.eu,resell,5.49,9.99,medium,low,7,"N
 9a76c4b3-07a1-4fe4-8ed7-8d04be1a209d,alummah.eu,available,6.98,10.98,medium,low,8,namecheap,,,18/09/2026 01:08
 96d9a422-e4cc-4373-bda3-abf98393910d,obligatory.eu,available,5.49,9.99,medium,low,10,namesilo,,,03/09/2026 23:42
 d90a41a7-d953-4f79-b5ba-160c061c266e,saf.eu,resell,,,high,low,3,,,,30/09/2026 12:43
+46aa5702-7965-4205-b5f5-11b8400b644d,petroglyphs.eu,available,5.88,5.88,medium,low,11,porkbun,,,02/10/2026 23:09
 00b7a8db-a7e1-4875-8155-94fc799f0ad8,oxonian.eu,available,5.49,9.99,medium,low,7,namesilo,,,04/09/2026 22:32
 4c151103-cd9e-4194-a303-20601c5333b3,parishes.eu,available,5.49,9.99,medium,low,8,namesilo,,,18/09/2026 08:08
 90cdf2ed-e94e-4d52-bbff-a9d46496cf4b,floccose.eu,available,5.49,9.99,low,low,8,namesilo,,,18/08/2026 08:36
@@ -904,6 +953,7 @@ da61fa7c-cffb-40ac-bc4f-6344723f3a2b,relaxant.eu,available,5.49,9.99,high,low,8,
 cc8aa683-9a36-4197-bd36-31d5ff79e197,swazi.eu,available,5.49,9.99,medium,low,5,namesilo,,,11/09/2026 05:27
 d574d365-ffc7-472c-b92c-9545f4575443,crowd.eu,resell,,,high,low,5,Name: EuroDNS S.A. Website: https://www.eurodns.com/,,,29/09/2026 12:13
 38821269-815a-4580-8aaf-4588e71ebb8c,depressing.eu,available,5.49,9.99,medium,low,10,namesilo,,,12/08/2026 03:50
+4fbe47e2-9d60-4eaf-9554-780e2c8a440f,cathay.eu,resell,,,medium,low,6,,,,02/10/2026 14:36
 005d6b4b-aaa3-4986-83af-f31a8596e6cd,pestilent.eu,available,5.49,9.99,low,low,9,namesilo,,,08/08/2026 12:06
 88e92ddf-4dd7-4d73-82d1-f5e17dcc3c58,achromic.eu,available,5.49,9.99,medium,low,8,namesilo,,,
 14942a40-b6a8-4532-9dd4-c67b98488e91,oozing.eu,available,5.49,9.99,medium,low,6,namesilo,,,04/09/2026 15:28
@@ -917,7 +967,7 @@ f1e38404-6306-44d3-bd91-a4e9df507fea,apprehend.eu,available,5.49,9.99,high,low,9
 569e0460-b3d8-4440-afed-669ba2f05e58,middlemost.eu,available,5.49,9.99,medium,low,10,namesilo,,,24/08/2026 22:27
 723530e2-436f-4749-ae55-918120e56ae0,goddess.eu,resell,,,high,low,7,,,,27/09/2026 13:50
 29d29e1d-edf3-4230-ad9d-89286947e221,witnesses.eu,available,6.98,10.98,medium,low,9,namecheap,,,25/09/2026 18:59
-abe702cd-2725-45f8-a7aa-81e890cf7256,wartime.eu,available,5.68,5.68,medium,low,7,spaceship,,,30/09/2026 11:19
+abe702cd-2725-45f8-a7aa-81e890cf7256,wartime.eu,available,5.68,5.68,medium,low,7,spaceship,,,02/10/2026 21:07
 c14dd615-55f0-4f59-b408-74ca28e603cc,where.eu,resell,,,high,low,5,,,,30/09/2026 22:56
 9a82f68b-d2d9-495a-9f69-e1c5e7ce56a9,agincourt.eu,premium,2651.9,11.99,medium,low,9,name.com,,,17/09/2026 17:59
 d73daa64-98c6-4673-8c73-cabdd5814da5,mangonel.eu,available,5.49,9.99,medium,low,8,namesilo,,,20/09/2026 00:37
@@ -925,6 +975,7 @@ d73daa64-98c6-4673-8c73-cabdd5814da5,mangonel.eu,available,5.49,9.99,medium,low,
 3e7c4255-ff0b-4337-aec4-b2a899a66b57,corporal.eu,available,5.49,9.99,high,low,8,namesilo,,,13/08/2026 01:52
 15b66052-5d23-4b68-b9ef-7c36e8a8968e,disarming.eu,available,5.49,9.99,medium,low,9,namesilo,,,14/08/2026 09:30
 1f24bd32-cb67-4537-bb05-134cf875f4d3,unlighted.eu,available,5.49,9.99,medium,low,9,namesilo,,,12/09/2026 13:01
+d49f00cf-ba28-43b7-afeb-8dc7669878a4,brigades.eu,available,5.68,5.68,medium,low,8,spaceship,,,02/10/2026 14:08
 9ac34fb1-4994-4c7a-91b7-b4f0629ee1bb,anointer.eu,available,10.99,11.99,medium,low,8,name.com,,,19/09/2026 11:18
 e2329a6d-63e3-4951-9579-50efacb681c2,mesial.eu,available,6.98,10.98,medium,low,6,namecheap,,,24/08/2026 21:08
 4cbe2f14-d8c9-498e-a710-2f34d310073d,cocktails.eu,resell,,,medium,low,9,,,,30/09/2026 14:46
@@ -948,54 +999,3 @@ a9b13b56-7378-4a10-9b80-6002a60ba79a,impetuous.eu,available,5.49,9.99,medium,low
 5bf58690-16cc-4389-a436-7f2fb93e035f,funnily.eu,available,5.98,10.98,medium,low,7,namecheap,,,14/09/2026 20:40
 af62be0a-5e38-44de-8a05-86c83692fe09,sunbury.eu,available,5.49,9.99,high,low,7,namesilo,,,01/10/2026 11:43
 4f5f2c5b-edb4-4c72-8ec9-30a266a735b3,stifled.eu,available,5.49,9.99,high,medium,7,namesilo,,,10/09/2026 12:12
-c03232fb-0567-488e-ae49-66f9018aa38f,factious.eu,available,5.49,9.99,medium,low,8,namesilo,,,14/08/2026 12:34
-61b5d74c-cb42-4156-ab23-9ae9f89aed09,abreast.eu,available,5.49,9.99,medium,low,7,namesilo,,,
-0af255b1-ec30-4377-9e6f-1b3c7839529a,bestowal.eu,available,10.99,11.99,medium,low,8,name.com,,,23/09/2026 10:39
-1f594dcd-81aa-4c25-91d5-38379958b272,roundness.eu,available,6.98,10.98,medium,low,9,namecheap,,,16/08/2026 12:39
-59c3fd68-8813-4463-b4ba-1f99cca2567f,murmuring.eu,available,5.49,9.99,medium,low,9,namesilo,,,03/09/2026 11:06
-39d5af6c-2f46-4f34-a678-d8880cd3b8a0,shortened.eu,available,5.49,9.99,high,medium,9,namesilo,,,10/09/2026 06:48
-7cd473c0-9966-4c72-8103-58c5f0d37726,enwrapped.eu,available,5.49,9.99,medium,low,9,namesilo,,,
-d1e5fc05-dfec-42fe-a546-854c8cae7fb4,absorbency.eu,available,6.98,10.98,medium,low,10,namecheap,,,16/09/2026 18:15
-0647a586-370b-4f4f-8e52-052567483d19,unopened.eu,available,5.49,9.99,medium,low,8,namesilo,,,12/09/2026 16:14
-2eea0d76-e122-4550-a8cf-87810c3d9543,epizoon.eu,available,6.98,10.98,medium,low,7,namecheap,,,15/08/2026 00:52
-0a681915-3f6e-45be-a5a4-99170227bf06,sedated.eu,available,6.98,10.98,low,low,7,namecheap,,,16/09/2026 18:04
-bbefd019-100c-4807-8cdb-72dad123d253,auld.eu,premium,3331.55,11.99,medium,low,4,Name: INFOCAL sp. z o.o. Website: https://www.cal.pl,,,
-2f855bce-1c8e-44dd-9e32-e51a03a24525,soured.eu,available,5.49,9.99,high,medium,6,namesilo,,,10/09/2026 14:46
-6d5d3f0f-6088-4ee2-a053-047842dbedb1,exergonic.eu,available,5.49,9.99,medium,low,9,namesilo,,,17/08/2026 17:06
-7536b08a-248c-4c1a-9019-8c51c6565f40,spells.eu,resell,,,medium,low,6,,,,28/09/2026 08:59
-f4000b93-398e-4da5-bfbe-c862332b35e1,agapornis.eu,available,5.49,9.99,medium,low,9,namesilo,,,17/09/2026 16:13
-d39debdc-700b-47b5-aa76-20bcae734ee6,occasional.eu,available,5.49,9.99,medium,low,10,namesilo,,,28/09/2026 11:16
-f87b25dd-df7f-4b54-8976-743207ae9d42,knocked.eu,available,5.49,9.99,low,low,7,namesilo,,,25/09/2026 18:45
-978cf5a5-b1a2-4835-b96d-d63769b2e44e,unscathed.eu,available,5.49,9.99,medium,low,9,namesilo,,,12/09/2026 12:03
-c064b41d-5f02-4579-a0a0-8c04b55adc48,leadplant.eu,available,5.49,9.99,medium,low,9,namesilo,,,18/09/2026 22:45
-577d8d26-d639-480d-a0fe-edbb04576eb7,guileless.eu,available,5.49,9.99,medium,low,9,namesilo,,,20/08/2026 20:48
-31cc5da3-8bbe-4fd4-99a1-3b82a5111467,eery.eu,available,5.49,9.99,low,low,4,namesilo,,,15/08/2026 12:45
-5ebdcb2a-44f2-4756-9f1d-ccc877e6365d,intimidation.eu,available,5.68,5.68,medium,low,12,spaceship,,,30/09/2026 06:21
-8433d701-92aa-4707-a1b1-6f60178b6300,atresia.eu,available,5.49,9.99,medium,low,7,namesilo,,,21/09/2026 00:42
-4d9a09d8-479b-46df-937d-c56f4559999b,coccoid.eu,available,5.49,9.99,medium,low,7,namesilo,,,12/08/2026 14:41
-f75c2f9f-5c75-4120-a46f-8d3617b5e898,regressive.eu,available,5.49,9.99,high,medium,10,namesilo,,,09/09/2026 12:59
-79129fd4-91c0-42c2-b253-fc19db15ff6a,smuggling.eu,available,5.68,5.68,high,low,9,spaceship,,,28/09/2026 15:22
-68df1685-cc1e-4025-a84e-5c2b688d1039,fussy.eu,resell,,,medium,low,5,Name: 101domain GRS Ltd. Website: https://www.101domain.com/,,,26/09/2026 06:18
-27b82b3e-6805-4e66-b58e-ce6f70393ac3,harmed.eu,available,5.49,9.99,low,low,6,namesilo,,,29/09/2026 23:42
-b62bfd5c-f867-476e-8fd7-1d62cf026ee2,cure.eu,resell,,,high,low,4,"Name: Spaceship, Inc. Website: https://www.spaceship.com/",,,26/09/2026 05:22
-301f5a39-b710-4b4e-baef-0e01fa6d2be5,pencilled.eu,available,5.49,9.99,medium,low,9,namesilo,,,08/09/2026 13:59
-0d6ff910-bb0c-49a1-887c-972c1c7269a4,invading.eu,available,5.49,9.99,medium,low,8,namesilo,,,22/08/2026 02:12
-f2937d43-f2eb-40d4-a07f-86116edd8083,sweetish.eu,available,5.49,9.99,medium,low,8,namesilo,,,11/09/2026 05:36
-db83ef8f-8f1a-4424-a54f-3dd1d61f843d,triclinic.eu,available,5.49,9.99,medium,low,9,namesilo,,,
-475c8f6e-3d83-480f-b31c-8a10aaf12ed2,cresson.eu,available,5.49,9.99,medium,low,7,namesilo,,,13/08/2026 06:16
-a529bda9-d617-4b19-b9c3-4a8c9271dd6b,onrush.eu,available,5.49,9.99,medium,low,6,namesilo,,,21/09/2026 01:07
-ca91b50f-8a69-4906-9e83-fd604dffe253,ignoble.eu,available,6.98,10.98,medium,low,7,namecheap,,,21/08/2026 18:23
-20985e3f-a5fb-4423-a86e-6425a05976b4,sapphirine.eu,available,5.98,10.98,high,medium,10,namecheap,,,09/09/2026 21:22
-70d2bf42-ff2b-43f7-b5db-53af55e2c2d5,anhydride.eu,available,5.49,9.99,medium,low,9,namesilo,,,19/09/2026 08:24
-738a0515-8fbb-437e-9cd4-33d52edfbc6f,engrossing.eu,available,5.49,9.99,high,low,10,namesilo,,,
-0ef7c8e6-bcfd-4d17-918c-75ec610ef654,provoked.eu,available,5.49,9.99,medium,low,8,namesilo,,,09/09/2026 04:38
-b339e6cf-2fb1-4e47-82a3-ba90ea5d9d81,straying.eu,available,5.49,9.99,medium,low,8,namesilo,,,10/09/2026 22:14
-f164a00d-9b41-4b3e-ba8b-31bcd283b992,leprous.eu,available,5.49,9.99,medium,low,7,namesilo,,,23/08/2026 00:12
-36de4b66-bfda-4a7b-b626-6a2ce7f85bcf,stairwell.eu,available,5.68,5.68,medium,low,9,spaceship,,,02/10/2026 06:29
-0574788d-b58b-405b-9762-8104aa375152,plumbers.eu,resell,,,medium,low,8,Name: eu-atropos.at web invest gmbh & co KG Website: http://www.eu-atropos.at,,,26/09/2026 08:13
-578c8286-87c2-4584-8582-7e21db458516,boarded.eu,available,6.98,10.98,medium,low,7,namecheap,,,01/10/2026 23:19
-d9304252-6a05-4cee-b1c8-bc0c6dcc834d,emboldened.eu,available,6.98,10.98,medium,low,10,namecheap,,,16/08/2026 10:22
-f8823f79-4159-43f1-b4dc-6b9fcc21af4e,landless.eu,available,5.49,9.99,medium,low,8,namesilo,,,22/08/2026 19:24
-e9ced60e-edc1-4064-a448-867ba708da42,venezuelan.eu,available,5.49,9.99,medium,low,10,namesilo,,,13/09/2026 02:04
-4e78b809-34ca-4e5d-8906-50bf933b34ec,kilometers.eu,available,6.98,10.98,medium,low,10,namecheap,,,28/09/2026 23:06
-fb8a3a06-0354-4400-9365-996bd2a3230a,undying.eu,available,10.99,11.99,medium,low,7,name.com,,,13/08/2026 20:04
