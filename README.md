@@ -4,9 +4,9 @@
 
 1,000 real .eu one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [37,537 names on .eu](https://unique.domains/tld/eu); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [37,622 names on .eu](https://unique.domains/tld/eu); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-29,459 one-word .eu names are free to register today. Cheapest first year $4.21 at Dynadot, renewal $6.05 there. 117 .eu sales in the last 12 months, median $3,375.
+29,533 one-word .eu names are free to register today. Cheapest first year $4.21 at Dynadot, renewal $6.06 there. 118 .eu sales in the last 12 months, median $3,374.
 
 Live page: [unique.domains/tld/eu](https://unique.domains/tld/eu?utm_source=github&utm_medium=referral&utm_campaign=repo_eu_oneword_domains&utm_content=top_tld_page)
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 9,842 names in the live list today.
+- The files hold 1,000 rows of the 9,962 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
