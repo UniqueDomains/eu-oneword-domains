@@ -4,9 +4,9 @@
 
 1,000 real .eu one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [37,622 names on .eu](https://unique.domains/tld/eu); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [37,776 names on .eu](https://unique.domains/tld/eu); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-29,533 one-word .eu names are free to register today. Cheapest first year $4.21 at Dynadot, renewal $6.06 there. 118 .eu sales in the last 12 months, median $3,374.
+29,691 one-word .eu names are free to register today. Cheapest first year $4.21 at Dynadot, renewal $6.06 there. 119 .eu sales in the last 12 months, median $3,375.
 
 Live page: [unique.domains/tld/eu](https://unique.domains/tld/eu?utm_source=github&utm_medium=referral&utm_campaign=repo_eu_oneword_domains&utm_content=top_tld_page)
 
@@ -36,6 +36,7 @@ The first 20 rows of the file, in the file's order.
 | moderately.eu    | available | $5.68          | $5.68         | high           | low    | 10     |
 | recompost.eu     | available | $5.68          | $5.68         | high           | low    | 9      |
 | creations.eu     | resell    | —              | —             | high           | low    | 9      |
+| hardtack.eu      | available | $5.49          | $9.99         | high           | low    | 9      |
 | accorded.eu      | available | $5.68          | $5.68         | medium         | low    | 8      |
 | dysfunctional.eu | available | $6.98          | $10.98        | medium         | low    | 13     |
 | involves.eu      | available | $5.49          | $9.99         | high           | low    | 8      |
@@ -51,7 +52,6 @@ The first 20 rows of the file, in the file's order.
 | sanctified.eu    | available | $5.49          | $9.99         | high           | low    | 10     |
 | hydrator.eu      | available | $5.88          | $5.88         | high           | low    | 8      |
 | regarde.eu       | available | $6.98          | $10.98        | high           | low    | 7      |
-| uphold.eu        | resell    | —              | —             | high           | low    | 6      |
 
 ## What is in the data
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 9,962 names in the live list today.
+- The files hold 1,000 rows of the 10,038 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
